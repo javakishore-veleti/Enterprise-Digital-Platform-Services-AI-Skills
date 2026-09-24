@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Atlas Analyze Triggers"
+  short_description: "Analyze MongoDB Atlas Triggers and related event workflows where available, including lifecycle, retries, idempoten"

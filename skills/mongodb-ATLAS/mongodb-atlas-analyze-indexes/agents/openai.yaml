@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Atlas Analyze Indexes"
+  short_description: "Analyze MongoDB Atlas indexes and Performance Advisor recommendations for coverage, selectivity, redundancy, and wr"

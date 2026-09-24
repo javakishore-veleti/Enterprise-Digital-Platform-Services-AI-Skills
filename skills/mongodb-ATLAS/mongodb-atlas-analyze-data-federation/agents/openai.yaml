@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Atlas Analyze Data Federation"
+  short_description: "Analyze MongoDB Atlas Data Federation across Atlas and supported object stores, including sources, schema, query pu"

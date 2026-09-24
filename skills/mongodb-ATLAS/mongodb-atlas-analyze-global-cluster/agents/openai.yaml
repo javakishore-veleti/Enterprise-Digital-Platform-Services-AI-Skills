@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Atlas Analyze Global Cluster"
+  short_description: "Analyze MongoDB Atlas global and multi-region deployment architecture, locality, replication, failover, latency, an"

@@ -1,3 +1,0 @@
-interface:
-  display_name: "MongoDB Atlas Analyze Networking"
-  short_description: "Analyze MongoDB Atlas network access including IP access lists, VPC/VNet peering, AWS PrivateLink, Azure Private Li"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Atlas Analyze Search"
+  short_description: "Analyze MongoDB Atlas Search indexes, analyzers, mappings, facets, scoring, autocomplete, and search performance."

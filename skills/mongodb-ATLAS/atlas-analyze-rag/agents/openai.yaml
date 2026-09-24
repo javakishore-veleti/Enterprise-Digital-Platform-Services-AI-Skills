@@ -1,3 +1,0 @@
-interface:
-  display_name: "MongoDB Atlas Analyze RAG"
-  short_description: "Analyze retrieval-augmented generation architectures using MongoDB Atlas as a vector/search and metadata store, inc"

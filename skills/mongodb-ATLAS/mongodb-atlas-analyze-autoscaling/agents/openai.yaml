@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Atlas Analyze Autoscaling"
+  short_description: "Analyze MongoDB Atlas compute and storage autoscaling, tier limits, scaling events, saturation, and workload fit."

@@ -1,3 +1,0 @@
-interface:
-  display_name: "MongoDB Atlas Analyze Terraform"
-  short_description: "Analyze Terraform using the MongoDB Atlas provider for projects, deployments, users, networking, private endpoints,"

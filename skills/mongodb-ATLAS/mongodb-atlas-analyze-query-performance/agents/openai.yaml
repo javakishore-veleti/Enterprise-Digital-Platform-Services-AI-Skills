@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Atlas Analyze Query Performance"
+  short_description: "Analyze MongoDB Atlas query performance using query telemetry, explain plans, execution statistics, resource metric"

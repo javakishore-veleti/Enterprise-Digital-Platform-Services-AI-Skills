@@ -1,3 +1,0 @@
-interface:
-  display_name: "MongoDB Atlas Analyze Performance Advisor"
-  short_description: "Analyze MongoDB Atlas Performance Advisor findings, slow query patterns, suggested indexes, namespace activity, and"

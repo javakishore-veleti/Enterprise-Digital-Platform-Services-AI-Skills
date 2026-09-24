@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Atlas Analyze Access"
+  short_description: "Analyze MongoDB Atlas project access, database users, roles, identity federation, cloud authentication, and least-p"

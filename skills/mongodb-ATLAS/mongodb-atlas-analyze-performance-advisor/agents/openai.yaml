@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Atlas Analyze Performance Advisor"
+  short_description: "Analyze MongoDB Atlas Performance Advisor findings and validate recommendations against real query shapes and workl"

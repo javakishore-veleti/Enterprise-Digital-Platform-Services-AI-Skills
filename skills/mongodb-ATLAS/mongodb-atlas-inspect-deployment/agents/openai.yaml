@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Atlas Inspect Deployment"
+  short_description: "Inspect MongoDB Atlas projects and deployments across cloud provider, regions, topology, tier, autoscaling, network"

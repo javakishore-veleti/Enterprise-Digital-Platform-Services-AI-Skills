@@ -3,42 +3,40 @@
 Enterprise Digital Platform AI skills for MongoDB Atlas managed database, search, vector, networking, backup, automation, and multi-cloud capabilities.
 
 ## Entry Points
-- `atlas-inspect-deployment`
-- `atlas-diagnose-runtime`
+- `mongodb-atlas-inspect-deployment`
+- `mongodb-atlas-diagnose-runtime`
 
 ## Cloud Architecture and Resilience
-- `atlas-analyze-global-cluster`
-- `atlas-analyze-autoscaling`
-- `atlas-analyze-networking`
-- `atlas-analyze-backup-pitr`
-- `atlas-analyze-failover`
-- `atlas-analyze-migration`
+- `mongodb-atlas-analyze-global-cluster`
+- `mongodb-atlas-analyze-autoscaling`
+- `mongodb-atlas-analyze-networking`
+- `mongodb-atlas-analyze-backup-pitr`
+- `mongodb-atlas-analyze-failover`
+- `mongodb-atlas-analyze-migration`
 
 ## Security and Governance
-- `atlas-analyze-access`
-- `atlas-analyze-sso-audit`
+- `mongodb-atlas-analyze-access`
+- `mongodb-atlas-analyze-sso-audit`
 
 ## Performance
-- `atlas-analyze-query-performance`
-- `atlas-analyze-indexes`
-- `atlas-analyze-performance-advisor`
-- `atlas-analyze-monitoring`
+- `mongodb-atlas-analyze-query-performance`
+- `mongodb-atlas-analyze-indexes`
+- `mongodb-atlas-analyze-performance-advisor`
+- `mongodb-atlas-analyze-monitoring`
 
 ## Search, Vector and AI
-- `atlas-analyze-vector-search`
-- `atlas-analyze-search`
-- `atlas-analyze-hybrid-search`
-- `atlas-analyze-rag`
+- `mongodb-atlas-analyze-vector-search`
+- `mongodb-atlas-analyze-search`
+- `mongodb-atlas-analyze-hybrid-search`
+- `mongodb-atlas-analyze-rag`
 
 ## Data and Automation
-- `atlas-analyze-data-federation`
-- `atlas-analyze-terraform`
-- `atlas-analyze-cli-api`
-- `atlas-analyze-spring-boot`
-- `atlas-analyze-triggers`
+- `mongodb-atlas-analyze-data-federation`
+- `mongodb-atlas-analyze-terraform`
+- `mongodb-atlas-analyze-cli-api`
+- `mongodb-atlas-analyze-spring-boot`
+- `mongodb-atlas-analyze-triggers`
 
-All public skills use the `atlas-` prefix to distinguish MongoDB Atlas managed capabilities from the self-managed `mongodb-*` family.
+All public skill names use the `mongodb-atlas-` prefix. The word `atlas` alone is intentionally not used as a public namespace because enterprise environments may contain unrelated applications or platforms named Atlas.
 
-Atlas capabilities change over time. Verify feature availability, deployment-tier/provider/region support, and product lifecycle before recommending an implementation.
-
-Do not carry self-managed host, WiredTiger, OS, filesystem, or manual replica-set administration guidance into Atlas unless the evidence explicitly requires database-level reasoning that remains customer-controlled.
+Self-managed MongoDB continues to use the separate `mongodb-*` family.

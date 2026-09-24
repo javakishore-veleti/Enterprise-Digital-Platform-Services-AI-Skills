@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Atlas Diagnose Runtime"
+  short_description: "Diagnose MongoDB Atlas incidents across deployment health, autoscaling, queries, indexes, connections, networking, "

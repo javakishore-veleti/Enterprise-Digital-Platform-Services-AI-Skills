@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Atlas Analyze Backup PITR"
+  short_description: "Analyze MongoDB Atlas managed backup, continuous backup, point-in-time recovery, retention, restore readiness, and "

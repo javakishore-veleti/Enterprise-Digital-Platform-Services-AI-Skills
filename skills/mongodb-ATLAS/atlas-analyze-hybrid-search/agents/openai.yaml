@@ -1,3 +1,0 @@
-interface:
-  display_name: "MongoDB Atlas Analyze Hybrid Search"
-  short_description: "Analyze hybrid retrieval in MongoDB Atlas combining lexical Atlas Search and Atlas Vector Search signals, including"
