@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Atlas Analyze CLI API"
+  short_description: "Analyze MongoDB Atlas CLI and Administration API workflows for project, deployment, networking, users, automation, "

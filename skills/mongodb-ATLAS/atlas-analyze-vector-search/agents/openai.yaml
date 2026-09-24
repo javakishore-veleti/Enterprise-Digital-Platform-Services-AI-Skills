@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Atlas Analyze Vector Search"
+  short_description: "Analyze MongoDB Atlas Vector Search for semantic retrieval and RAG, including embedding fields, vector indexes, dim"

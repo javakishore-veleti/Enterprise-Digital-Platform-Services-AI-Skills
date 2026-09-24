@@ -1,0 +1,58 @@
+mongodbAtlas:
+  environments:
+    dev:
+      projectRef: enterprise-dev
+      deploymentRef: checkout-atlas-dev
+    prod:
+      projectRef: enterprise-prod
+      deploymentRef: checkout-atlas-prod
+
+  deployment:
+    cloudProvider: AWS
+    regions:
+      - us-east-1
+    topology: replica-set
+    tierRef: M30
+    autoscaling:
+      compute: true
+      storage: true
+
+  networking:
+    privateConnectivity: true
+    provider: private-endpoint
+    ipAccessListEnabled: false
+
+  security:
+    ssoEnabled: true
+    databaseAuthenticationRef: checkout-atlas-db-auth
+
+  backup:
+    enabled: true
+    pointInTimeRecovery: true
+
+  search:
+    atlasSearchEnabled: false
+    vectorSearchEnabled: false
+    hybridSearchEnabled: false
+
+  ai:
+    ragEnabled: false
+    embeddingModelRef: null
+
+  federation:
+    enabled: false
+    dataSourceRefs: []
+
+  automation:
+    terraformManaged: true
+    triggersUsed: false
+
+  application:
+    springBoot: true
+    connectionRef: checkout-atlas-connection
+
+  observability:
+    provider: datadog
+
+# Store Atlas project/deployment identifiers, resource references, and architecture intent only.
+# Never store Atlas API keys, database passwords, private keys, tokens, or sensitive connection strings in Git.

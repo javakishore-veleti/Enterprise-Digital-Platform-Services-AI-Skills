@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Atlas Analyze Migration"
+  short_description: "Analyze migrations from self-managed MongoDB or other supported sources to MongoDB Atlas, including topology, versi"

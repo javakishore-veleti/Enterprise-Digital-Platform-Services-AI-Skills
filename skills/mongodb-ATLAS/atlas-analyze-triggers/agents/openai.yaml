@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Atlas Analyze Triggers"
+  short_description: "Analyze MongoDB Atlas Triggers and related serverless event workflows where available, including database and sched"

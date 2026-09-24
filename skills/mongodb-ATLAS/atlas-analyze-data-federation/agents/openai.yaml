@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Atlas Analyze Data Federation"
+  short_description: "Analyze MongoDB Atlas Data Federation or federated query capabilities across Atlas and supported cloud object store"

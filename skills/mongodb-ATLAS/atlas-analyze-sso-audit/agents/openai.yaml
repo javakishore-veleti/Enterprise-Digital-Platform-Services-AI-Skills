@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Atlas Analyze SSO Audit"
+  short_description: "Analyze MongoDB Atlas workforce identity federation/SSO, organization and project roles, database identity integrat"

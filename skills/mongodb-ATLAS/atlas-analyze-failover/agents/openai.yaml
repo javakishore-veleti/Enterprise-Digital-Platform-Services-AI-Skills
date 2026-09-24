@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Atlas Analyze Failover"
+  short_description: "Analyze MongoDB Atlas managed high availability and failover behavior across replica sets, availability zones, and "

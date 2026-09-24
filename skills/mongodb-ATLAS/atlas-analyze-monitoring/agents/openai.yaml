@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Atlas Analyze Monitoring"
+  short_description: "Analyze MongoDB Atlas metrics, logs, alerts, query telemetry, and integration with enterprise observability such as"
