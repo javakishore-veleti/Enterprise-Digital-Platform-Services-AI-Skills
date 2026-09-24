@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Retries"
+  short_description: "Analyze retry policies, backoff, jitter, idempotency, retry storms, and interaction with upstream/downstream timeou"

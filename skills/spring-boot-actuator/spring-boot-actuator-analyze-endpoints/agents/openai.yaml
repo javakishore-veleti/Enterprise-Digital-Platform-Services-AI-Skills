@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Endpoints"
+  short_description: "Analyze Actuator endpoint exposure, management port/base path, access controls, and operational risk."

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Health"
+  short_description: "Analyze Spring Boot Actuator health contributors, readiness, liveness, dependency health, and Kubernetes probe beha"

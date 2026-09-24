@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Datadog Integration"
+  short_description: "Analyze Spring Boot integration with Datadog APM, metrics, logs, trace correlation, service/env/version tags, and a"

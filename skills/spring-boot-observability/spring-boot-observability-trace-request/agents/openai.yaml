@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Trace Request"
+  short_description: "Trace a Spring Boot request across logs, metrics, traces, correlation IDs, downstream spans, and service boundaries"

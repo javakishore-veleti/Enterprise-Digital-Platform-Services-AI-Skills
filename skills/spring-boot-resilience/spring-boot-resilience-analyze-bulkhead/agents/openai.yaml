@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Bulkhead"
+  short_description: "Analyze concurrency isolation, thread-pool or semaphore bulkheads, saturation, queueing, and failure containment."

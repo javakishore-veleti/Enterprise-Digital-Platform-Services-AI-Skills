@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Timeouts"
+  short_description: "Analyze connect/read/write/request timeouts across Spring Boot dependencies and distinguish timeout source from dow"

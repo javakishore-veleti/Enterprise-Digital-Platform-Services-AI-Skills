@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Logging"
+  short_description: "Analyze structured logging, MDC, correlation IDs, log levels, appenders, sensitive-data exposure, and log quality."

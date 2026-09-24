@@ -1,5 +1,9 @@
 # spring-boot-observability
 
-Enterprise Digital Platform AI capability family for Micrometer, tracing, metrics, logs, OpenTelemetry, Datadog integration, correlation IDs, SLIs/SLOs, and production telemetry.
+Enterprise Digital Platform AI skills for Spring Boot observability.
 
-Public skills created inside this folder must use the `spring-boot-observability-` prefix when the capability name alone could be ambiguous. Cross-stack concerns should route to the owning technology family rather than duplicate platform-specific knowledge.
+- `spring-boot-observability-trace-request`
+- `spring-boot-observability-analyze-micrometer`
+- `spring-boot-observability-analyze-tracing`
+- `spring-boot-observability-analyze-logging`
+- `spring-boot-observability-analyze-datadog`

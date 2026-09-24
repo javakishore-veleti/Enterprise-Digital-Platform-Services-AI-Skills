@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Contract Tests"
+  short_description: "Analyze API/message contract tests, compatibility, provider/consumer expectations, schema evolution, and CI integra"

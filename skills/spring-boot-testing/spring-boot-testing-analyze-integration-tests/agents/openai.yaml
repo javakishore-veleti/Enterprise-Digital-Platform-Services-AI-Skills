@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Integration Tests"
+  short_description: "Analyze Spring Boot integration tests, application context, Testcontainers, external dependencies, and environment "

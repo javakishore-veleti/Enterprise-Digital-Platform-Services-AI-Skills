@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Slice Tests"
+  short_description: "Analyze Spring test slices such as WebMvcTest and DataJpaTest, context scope, mocks, and false confidence risks."

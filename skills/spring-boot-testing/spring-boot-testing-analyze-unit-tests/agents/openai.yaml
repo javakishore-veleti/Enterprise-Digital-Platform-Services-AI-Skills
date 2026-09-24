@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Unit Tests"
+  short_description: "Analyze Spring Boot unit tests, isolation, mocking, deterministic behavior, assertions, and coverage quality."

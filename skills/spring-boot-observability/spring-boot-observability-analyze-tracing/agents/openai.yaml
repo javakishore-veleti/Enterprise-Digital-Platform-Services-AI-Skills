@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Tracing"
+  short_description: "Analyze distributed tracing, trace/span propagation, sampling, baggage, context propagation, and broken trace chain"

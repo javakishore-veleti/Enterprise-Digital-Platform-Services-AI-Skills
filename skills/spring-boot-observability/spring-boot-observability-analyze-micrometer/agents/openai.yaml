@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Micrometer"
+  short_description: "Analyze Micrometer meters, tags, cardinality, timers, counters, gauges, distribution summaries, and registry behavi"

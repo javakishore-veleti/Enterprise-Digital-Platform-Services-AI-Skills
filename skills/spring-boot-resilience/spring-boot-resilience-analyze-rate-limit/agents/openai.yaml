@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Rate Limit"
+  short_description: "Analyze application and dependency rate limits, token/leaky bucket behavior, throttling responses, and fairness."

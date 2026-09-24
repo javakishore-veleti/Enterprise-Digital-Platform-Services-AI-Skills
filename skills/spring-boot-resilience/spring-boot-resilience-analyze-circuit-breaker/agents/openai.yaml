@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Circuit Breaker"
+  short_description: "Analyze circuit breaker thresholds, state transitions, fallback behavior, metrics, and dependency protection."

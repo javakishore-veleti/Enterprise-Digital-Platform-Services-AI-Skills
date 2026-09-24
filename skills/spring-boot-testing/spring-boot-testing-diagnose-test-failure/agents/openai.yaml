@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Diagnose Test Failure"
+  short_description: "Diagnose flaky or failing Spring Boot tests using code, environment, dependency state, timing, and reproducibility "

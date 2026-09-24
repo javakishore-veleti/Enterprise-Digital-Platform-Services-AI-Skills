@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Metrics"
+  short_description: "Analyze Actuator metrics endpoints, meter availability, tags, custom metrics, and operational interpretation."
