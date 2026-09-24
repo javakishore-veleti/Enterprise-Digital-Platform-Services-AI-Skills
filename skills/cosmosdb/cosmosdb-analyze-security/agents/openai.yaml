@@ -1,0 +1,3 @@
+interface:
+  display_name: "Cosmos DB Analyze Security"
+  short_description: "Analyze Azure Cosmos DB security configuration, including Entra ID/RBAC, managed identity, keys/connection strings,"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Cosmos DB Analyze Change Feed"
+  short_description: "Analyze Azure Cosmos DB change feed and Change Feed Processor behavior, including leases, continuation, lag, scalin"

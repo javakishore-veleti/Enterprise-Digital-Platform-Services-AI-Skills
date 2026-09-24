@@ -1,0 +1,3 @@
+interface:
+  display_name: "Cosmos DB Analyze Indexing"
+  short_description: "Analyze Azure Cosmos DB indexing policies, included/excluded paths, composite indexes, spatial/vector/full-text ind"

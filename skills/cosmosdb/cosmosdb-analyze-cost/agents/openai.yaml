@@ -1,0 +1,3 @@
+interface:
+  display_name: "Cosmos DB Analyze Cost"
+  short_description: "Analyze Azure Cosmos DB cost drivers across RU consumption, autoscale/provisioned/serverless choices, regions, inde"

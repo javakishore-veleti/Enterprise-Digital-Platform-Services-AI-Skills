@@ -1,0 +1,3 @@
+interface:
+  display_name: "Cosmos DB Analyze Consistency"
+  short_description: "Analyze Azure Cosmos DB consistency configuration and application behavior, including strong, bounded staleness, se"

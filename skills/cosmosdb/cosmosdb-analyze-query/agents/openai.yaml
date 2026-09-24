@@ -1,0 +1,3 @@
+interface:
+  display_name: "Cosmos DB Analyze Query"
+  short_description: "Analyze Azure Cosmos DB for NoSQL queries for RU cost, cross-partition execution, scans, filters, ORDER BY, paginat"

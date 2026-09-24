@@ -1,0 +1,3 @@
+interface:
+  display_name: "Cosmos DB Diagnose Runtime"
+  short_description: "Diagnose Azure Cosmos DB runtime incidents end-to-end across account configuration, partitions, queries, indexing, "

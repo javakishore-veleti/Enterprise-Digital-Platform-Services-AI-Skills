@@ -1,0 +1,3 @@
+interface:
+  display_name: "Cosmos DB Analyze Partitioning"
+  short_description: "Analyze Azure Cosmos DB partition key design, logical partition distribution, hot partitions, cardinality, storage "

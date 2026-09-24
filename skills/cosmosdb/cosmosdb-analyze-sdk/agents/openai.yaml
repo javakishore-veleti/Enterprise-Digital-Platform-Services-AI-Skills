@@ -1,0 +1,3 @@
+interface:
+  display_name: "Cosmos DB Analyze SDK"
+  short_description: "Analyze Azure Cosmos DB SDK usage in application code, including client lifecycle, connection mode, retries, diagno"

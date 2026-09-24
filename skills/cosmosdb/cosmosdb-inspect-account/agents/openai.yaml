@@ -1,0 +1,3 @@
+interface:
+  display_name: "Cosmos DB Inspect Account"
+  short_description: "Inspect Azure Cosmos DB account configuration, API mode, regions, consistency, networking, identities, throughput m"

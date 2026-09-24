@@ -1,0 +1,3 @@
+interface:
+  display_name: "Cosmos DB Analyze Throughput"
+  short_description: "Analyze Azure Cosmos DB Request Unit consumption, provisioned throughput, autoscale, serverless usage, throttling, "

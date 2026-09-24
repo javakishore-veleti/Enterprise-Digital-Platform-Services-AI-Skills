@@ -1,0 +1,3 @@
+interface:
+  display_name: "Cosmos DB Analyze Vector Search"
+  short_description: "Analyze Azure Cosmos DB vector search design, embeddings, vector policy, vector indexes such as DiskANN where appli"

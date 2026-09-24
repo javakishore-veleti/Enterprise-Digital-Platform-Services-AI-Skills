@@ -1,0 +1,3 @@
+interface:
+  display_name: "Cosmos DB Analyze Full Text Hybrid Search"
+  short_description: "Analyze Azure Cosmos DB full-text and hybrid search design, including full-text policy/indexes, BM25-style lexical "

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Cosmos DB Analyze Data Model"
+  short_description: "Analyze Azure Cosmos DB document modeling, denormalization, item boundaries, relationship patterns, transactional s"

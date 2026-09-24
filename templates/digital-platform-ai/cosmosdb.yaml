@@ -1,0 +1,48 @@
+cosmosdb:
+  environments:
+    dev:
+      account: checkout-cosmos-dev
+      database: checkout
+      regionPreference:
+        - eastus
+    prod:
+      account: checkout-cosmos-prod
+      database: checkout
+      regionPreference:
+        - eastus
+        - westus2
+
+  api: nosql
+
+  consistency:
+    default: session
+
+  throughput:
+    mode: autoscale
+
+  containers:
+    - name: orders
+      partitionKey: /customerId
+      throughputScope: container
+      changeFeedEnabled: true
+
+  globalDistribution:
+    multiRegionWrites: false
+    regions:
+      - eastus
+      - westus2
+
+  observability:
+    provider: datadog
+
+  authentication:
+    mode: entra-id
+    keyVaultReference: checkout-kv
+
+  aiSearch:
+    vectorEnabled: false
+    fullTextEnabled: false
+    hybridSearchEnabled: false
+
+# Store identifiers, configuration intent, and references only.
+# Do not store keys, connection strings, tokens, passwords, or secrets in Git.
