@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Analyze Glue Schema"
+  short_description: "Analyze AWS Glue Schema Registry integration with Amazon MSK producers and consumers, including Avro, JSON Schema, "

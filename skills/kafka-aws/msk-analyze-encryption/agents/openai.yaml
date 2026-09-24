@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Analyze Encryption"
+  short_description: "Analyze Amazon MSK encryption at rest and in transit, KMS key usage, TLS client-broker configuration, broker-broker"

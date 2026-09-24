@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Analyze Lambda"
+  short_description: "Analyze AWS Lambda event source mappings for Amazon MSK, including consumer groups, batching, concurrency, offsets,"

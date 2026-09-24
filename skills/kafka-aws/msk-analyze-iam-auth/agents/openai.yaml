@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Analyze IAM Authentication"
+  short_description: "Analyze Amazon MSK IAM access control, client authentication, IAM policies, cluster policies, authorization, and cl"

@@ -1,0 +1,49 @@
+msk:
+  environments:
+    dev:
+      accountRef: enterprise-dev
+      region: us-east-1
+      clusterRef: checkout-events-dev
+    prod:
+      accountRef: enterprise-prod
+      region: us-east-1
+      clusterRef: checkout-events-prod
+
+  cluster:
+    type: provisioned
+    brokerType: standard
+    kafkaVersion: managed-by-platform
+
+  networking:
+    privateConnectivity: true
+    multiVpcConnectivity: false
+
+  authentication:
+    iam: true
+    saslScram: false
+    mtls: false
+
+  encryption:
+    inTransit: tls
+    atRest:
+      kmsKeyRef: alias/checkout-msk
+
+  storage:
+    elasticStorage: true
+    tieredStorage: false
+
+  integrations:
+    mskConnect: false
+    mskReplicator: false
+    glueSchemaRegistry: false
+    lambda: false
+    managedFlink: false
+    managedDataDelivery: false
+
+  observability:
+    cloudWatch: true
+    openMonitoring: false
+    enterpriseProvider: datadog
+
+# Store cluster identifiers, resource references, architecture intent, and feature flags only.
+# Never store credentials, SASL passwords, private keys, tokens, or secrets in Git.

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Analyze Producer"
+  short_description: "Analyze producers writing to Amazon MSK including batching, compression, acknowledgments, idempotence, partitioning"

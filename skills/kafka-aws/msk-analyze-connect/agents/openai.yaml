@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Analyze Connect"
+  short_description: "Analyze Amazon MSK Connect connectors, custom plugins, worker configurations, capacity/autoscaling, source/sink beh"

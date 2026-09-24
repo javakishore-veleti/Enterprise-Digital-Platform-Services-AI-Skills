@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Inspect Cluster"
+  short_description: "Inspect Amazon MSK cluster type, broker topology, Kafka version, networking, storage, authentication, encryption, m"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Analyze Open Monitoring"
+  short_description: "Analyze Amazon MSK open monitoring with Prometheus-compatible broker and JMX metrics and integration into enterpris"

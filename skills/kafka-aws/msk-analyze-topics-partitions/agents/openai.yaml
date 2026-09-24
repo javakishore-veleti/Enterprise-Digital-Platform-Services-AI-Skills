@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Analyze Topics Partitions"
+  short_description: "Analyze Amazon MSK topic and partition architecture, replication, partition distribution, retention, ordering, hot "

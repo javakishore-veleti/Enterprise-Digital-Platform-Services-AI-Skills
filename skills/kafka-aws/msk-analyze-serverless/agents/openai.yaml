@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Analyze Serverless"
+  short_description: "Analyze Amazon MSK Serverless architecture, networking, IAM authentication, quotas, throughput behavior, topics, pr"

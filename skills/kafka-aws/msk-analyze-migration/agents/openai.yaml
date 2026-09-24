@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Analyze Migration"
+  short_description: "Analyze migrations to or between Amazon MSK clusters, including source Kafka/MSK topology, target cluster type, rep"

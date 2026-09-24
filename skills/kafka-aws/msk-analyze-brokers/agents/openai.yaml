@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Analyze Brokers"
+  short_description: "Analyze Amazon MSK Provisioned broker topology, broker type, availability-zone distribution, Kafka configuration, b"

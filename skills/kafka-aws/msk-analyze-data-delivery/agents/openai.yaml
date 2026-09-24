@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Analyze Data Delivery"
+  short_description: "Analyze AWS-managed delivery of Amazon MSK data to supported AWS destinations such as Amazon S3 where the configure"

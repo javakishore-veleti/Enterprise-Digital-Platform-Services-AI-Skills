@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Analyze Networking"
+  short_description: "Analyze Amazon MSK VPC networking, subnets, security groups, DNS, PrivateLink or multi-VPC private connectivity, bo"

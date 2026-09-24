@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Analyze CloudFormation"
+  short_description: "Analyze CloudFormation for Amazon MSK clusters, Serverless, configurations, networking, security, monitoring, and r"

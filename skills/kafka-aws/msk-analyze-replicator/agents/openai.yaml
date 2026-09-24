@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Analyze Replicator"
+  short_description: "Analyze Amazon MSK Replicator topology, source and target clusters, topic replication, replication lag, naming/conf"

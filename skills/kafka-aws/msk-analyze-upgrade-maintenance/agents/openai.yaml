@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Analyze Upgrade Maintenance"
+  short_description: "Analyze Amazon MSK Kafka version upgrades, broker/configuration changes, managed maintenance, rolling behavior, com"

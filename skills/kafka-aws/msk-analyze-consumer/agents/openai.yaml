@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Analyze Consumer"
+  short_description: "Analyze consumers reading from Amazon MSK including consumer groups, lag, rebalancing, offsets, scaling, retries, a"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Analyze Flink"
+  short_description: "Analyze Amazon Managed Service for Apache Flink integrations with Amazon MSK, including source/sink configuration, "

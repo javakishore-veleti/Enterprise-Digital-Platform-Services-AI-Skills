@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Analyze Capacity"
+  short_description: "Analyze Amazon MSK capacity across Provisioned Standard or Express brokers and MSK Serverless, including broker siz"

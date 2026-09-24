@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Analyze CloudWatch"
+  short_description: "Analyze Amazon MSK CloudWatch metrics and logs for broker health, CPU, storage, network, partition behavior, consum"

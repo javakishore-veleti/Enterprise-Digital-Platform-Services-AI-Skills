@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon MSK Diagnose Runtime"
+  short_description: "Diagnose Amazon MSK incidents end-to-end across cluster capacity, brokers, storage, partitions, producers, consumer"
