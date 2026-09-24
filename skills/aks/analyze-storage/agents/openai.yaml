@@ -1,3 +1,0 @@
-interface:
-  display_name: "Analyze Storage"
-  short_description: "Analyze AKS persistent storage, PersistentVolumes, PersistentVolumeClaims, StorageClasses, mounts, attachment "

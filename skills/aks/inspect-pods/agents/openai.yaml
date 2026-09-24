@@ -1,3 +1,0 @@
-interface:
-  display_name: "Inspect Pods"
-  short_description: "Inspect AKS pods and containers for readiness, liveness, restarts, CrashLoopBackOff, pending scheduling, logs,"

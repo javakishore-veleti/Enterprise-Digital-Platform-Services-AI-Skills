@@ -1,3 +1,0 @@
-interface:
-  display_name: "Inspect Container Images"
-  short_description: "Inspect container images used by AKS workloads, including image repository, tag/digest, pull policy, registry "

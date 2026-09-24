@@ -1,0 +1,3 @@
+interface:
+  display_name: "AKS Inspect Sidecars"
+  short_description: "Inspect sidecar containers in AKS pods, including Istio/Envoy, logging, security, proxy, or platform sidecars, and "

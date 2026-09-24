@@ -1,3 +1,0 @@
-interface:
-  display_name: "Inspect Namespace"
-  short_description: "Inspect Kubernetes namespace state in AKS, including workloads, quotas, limits, events, service accounts, poli"

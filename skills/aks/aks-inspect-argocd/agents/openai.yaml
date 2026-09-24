@@ -1,0 +1,3 @@
+interface:
+  display_name: "AKS Inspect ArgoCD"
+  short_description: "Inspect Argo CD application state for AKS workloads, including sync status, health, target revision, resource drift"

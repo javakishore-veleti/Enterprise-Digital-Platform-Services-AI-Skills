@@ -1,0 +1,3 @@
+interface:
+  display_name: "AKS Inspect Cluster"
+  short_description: "Inspect AKS cluster context, node pools, health, capacity, Kubernetes version, scheduling pressure, and cluster-lev"

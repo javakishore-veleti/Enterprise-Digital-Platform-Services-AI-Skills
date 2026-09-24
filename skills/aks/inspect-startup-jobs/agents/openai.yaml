@@ -1,3 +1,0 @@
-interface:
-  display_name: "Inspect Startup Jobs"
-  short_description: "Inspect Kubernetes Jobs, init containers, Helm/Argo pre-sync or startup hooks, migration jobs, and other prere"

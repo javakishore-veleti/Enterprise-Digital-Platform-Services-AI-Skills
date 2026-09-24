@@ -1,3 +1,0 @@
-interface:
-  display_name: "AKS Inspect Runtime"
-  short_description: "Inspect AKS runtime state for service health and failures."

@@ -1,0 +1,3 @@
+interface:
+  display_name: "AKS Inspect Runtime"
+  short_description: "Route AKS runtime investigations to the appropriate focused skill across clusters, namespaces, deployments, pods, s"

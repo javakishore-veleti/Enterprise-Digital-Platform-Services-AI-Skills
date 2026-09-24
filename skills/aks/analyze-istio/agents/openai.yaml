@@ -1,3 +1,0 @@
-interface:
-  display_name: "Analyze Istio"
-  short_description: "Analyze Istio service-mesh behavior on AKS including sidecar injection, VirtualService, DestinationRule, Gatew"

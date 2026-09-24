@@ -1,3 +1,0 @@
-interface:
-  display_name: "Analyze Deployment"
-  short_description: "Analyze Kubernetes Deployment, ReplicaSet, manifest, rollout strategy, desired/current replicas, probes, envir"
