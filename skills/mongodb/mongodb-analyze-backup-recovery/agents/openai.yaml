@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze Backup Recovery"
+  short_description: "Analyze backup and recovery for self-managed MongoDB, including mongodump/mongorestore, filesystem or volume snapsh"

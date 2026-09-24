@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze Query"
+  short_description: "Analyze MongoDB query performance using query shape, explain plans, execution statistics, profiler/current operatio"

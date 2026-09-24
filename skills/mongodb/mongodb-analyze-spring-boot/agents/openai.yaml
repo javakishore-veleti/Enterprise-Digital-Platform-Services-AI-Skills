@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze Spring Boot"
+  short_description: "Analyze Spring Boot and Java integration with self-managed MongoDB, including MongoDB Java driver/Spring Data confi"

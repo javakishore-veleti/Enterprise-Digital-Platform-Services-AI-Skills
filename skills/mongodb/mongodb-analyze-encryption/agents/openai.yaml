@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze Encryption"
+  short_description: "Analyze encryption for self-managed MongoDB including TLS in transit and storage encryption capabilities available "

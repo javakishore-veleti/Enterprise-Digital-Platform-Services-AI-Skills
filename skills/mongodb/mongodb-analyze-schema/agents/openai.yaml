@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze Schema"
+  short_description: "Analyze MongoDB document schema and data modeling, including embedding vs references, document growth, arrays, sche"

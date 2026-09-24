@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze Balancer"
+  short_description: "Analyze MongoDB sharded-cluster balancer behavior, chunk or range migrations, balancing windows, migration failures"

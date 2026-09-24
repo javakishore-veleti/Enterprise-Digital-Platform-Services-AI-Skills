@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze Host OS"
+  short_description: "Analyze Linux host configuration for self-managed MongoDB, including memory, swap, Transparent Huge Pages, ulimits,"

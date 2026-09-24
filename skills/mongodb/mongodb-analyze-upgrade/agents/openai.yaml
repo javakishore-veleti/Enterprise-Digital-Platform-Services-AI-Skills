@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze Upgrade"
+  short_description: "Analyze self-managed MongoDB rolling upgrades across replica sets and sharded clusters, including version compatibi"

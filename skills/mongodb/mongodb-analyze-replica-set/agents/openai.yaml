@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze Replica Set"
+  short_description: "Analyze self-managed MongoDB replica set topology, primary/secondary members, elections, priorities, votes, hidden "

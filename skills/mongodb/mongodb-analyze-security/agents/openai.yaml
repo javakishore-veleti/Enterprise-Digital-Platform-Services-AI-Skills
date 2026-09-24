@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze Security"
+  short_description: "Analyze self-managed MongoDB authentication, authorization, RBAC, internal keyfile or x.509 authentication, LDAP/AD"

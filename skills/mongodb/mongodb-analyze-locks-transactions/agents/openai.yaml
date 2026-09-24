@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze Locks Transactions"
+  short_description: "Analyze MongoDB concurrency, locks, long-running operations, multi-document transactions, write conflicts, transact"

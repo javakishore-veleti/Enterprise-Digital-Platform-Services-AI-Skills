@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze Sharding"
+  short_description: "Analyze self-managed MongoDB sharded clusters including config server replica sets, mongos routers, shards, metadat"

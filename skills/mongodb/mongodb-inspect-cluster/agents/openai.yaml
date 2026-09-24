@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Inspect Cluster"
+  short_description: "Inspect a self-managed MongoDB deployment across standalone, replica set, or sharded topology, including members, m"

@@ -1,0 +1,45 @@
+mongodb:
+  environments:
+    dev:
+      deploymentRef: checkout-mongodb-dev
+      topology: replica-set
+    prod:
+      deploymentRef: checkout-mongodb-prod
+      topology: sharded
+
+  deployment:
+    platform: kubernetes
+    operatorManaged: true
+
+  topology:
+    replicaSet:
+      nameRef: checkout-rs
+    sharded:
+      configServerReplicaSetRef: checkout-config-rs
+      mongosServiceRef: checkout-mongos
+      shardRefs: []
+
+  storage:
+    engine: wiredTiger
+    persistentVolumeClassRef: managed-storage
+
+  security:
+    authentication: enabled
+    internalAuthentication: x509
+    tls: required
+    ldapOrAdEnabled: false
+    encryptionAtRestEnabled: false
+
+  application:
+    springBoot: true
+    connectionRef: checkout-mongodb-connection
+    credentialsRef: checkout-mongodb-credentials
+
+  backup:
+    strategyRef: enterprise-mongodb-backup
+
+  observability:
+    provider: datadog
+
+# Store topology, resource names, secret references, and architecture intent only.
+# Never store MongoDB passwords, keyfiles, private keys, connection-string credentials, or tokens in Git.

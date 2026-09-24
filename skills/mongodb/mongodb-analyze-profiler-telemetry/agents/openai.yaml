@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze Profiler Telemetry"
+  short_description: "Analyze MongoDB profiler, diagnostic logs, mongostat, mongotop, current operations, and native runtime telemetry to"

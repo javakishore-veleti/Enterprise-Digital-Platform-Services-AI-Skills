@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Diagnose Runtime"
+  short_description: "Diagnose self-managed MongoDB incidents end-to-end across replica sets, sharding, queries, indexes, WiredTiger, mem"

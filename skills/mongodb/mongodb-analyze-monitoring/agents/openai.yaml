@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze Monitoring"
+  short_description: "Analyze observability for self-managed MongoDB across native metrics/logs and enterprise monitoring such as Datadog"

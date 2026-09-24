@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze WiredTiger"
+  short_description: "Analyze MongoDB WiredTiger storage-engine behavior including cache pressure, eviction, checkpoints, tickets/concurr"

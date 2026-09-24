@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze Indexes"
+  short_description: "Analyze MongoDB indexes including compound, partial, sparse, TTL, text, wildcard, multikey, unique, and hidden inde"

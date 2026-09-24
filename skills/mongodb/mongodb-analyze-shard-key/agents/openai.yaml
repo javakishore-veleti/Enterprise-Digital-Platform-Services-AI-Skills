@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze Shard Key"
+  short_description: "Analyze MongoDB shard key selection and runtime behavior, including ranged, hashed, and compound keys, cardinality,"

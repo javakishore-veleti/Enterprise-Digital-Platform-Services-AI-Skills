@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze Storage"
+  short_description: "Analyze self-managed MongoDB storage layout, filesystem, volumes, IOPS/latency, capacity, journal/data placement, R"

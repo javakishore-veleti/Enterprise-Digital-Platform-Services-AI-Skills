@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze Change Streams"
+  short_description: "Analyze MongoDB change streams including resume tokens, oplog dependencies, full-document lookup, filters, consumer"

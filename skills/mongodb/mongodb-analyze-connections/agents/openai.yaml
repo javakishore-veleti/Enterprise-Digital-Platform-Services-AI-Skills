@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze Connections"
+  short_description: "Analyze MongoDB connection usage, driver pools, connection limits, authentication overhead, network churn, timeouts"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "MongoDB Analyze Kubernetes"
+  short_description: "Analyze self-managed MongoDB running on Kubernetes, including StatefulSets or supported MongoDB operators, pods, se"
