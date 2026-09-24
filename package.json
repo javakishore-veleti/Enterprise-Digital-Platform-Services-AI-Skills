@@ -1,0 +1,54 @@
+{
+  "name": "@javakishore-veleti/enterprise-digital-platform-services-ai-skills",
+  "version": "0.1.0-beta.1",
+  "description": "Enterprise AI engineering skills, operating standards, harness guidance, and service templates for digital platform engineering teams.",
+  "license": "Apache-2.0",
+  "type": "commonjs",
+  "main": "bin/edp-ai-skills.js",
+  "bin": {
+    "edp-ai-skills": "bin/edp-ai-skills.js"
+  },
+  "files": [
+    "skills/**",
+    "standards/**",
+    "harnesses/**",
+    "templates/**",
+    "docs/**",
+    "assets/**",
+    "bin/**",
+    "scripts/validate-skills.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "validate": "node scripts/validate-skills.js",
+    "pack:check": "npm pack --dry-run",
+    "prepack": "npm run validate"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javakishore-veleti/Enterprise-Digital-Platform-Services-AI-Skills.git"
+  },
+  "homepage": "https://github.com/javakishore-veleti/Enterprise-Digital-Platform-Services-AI-Skills#readme",
+  "bugs": {
+    "url": "https://github.com/javakishore-veleti/Enterprise-Digital-Platform-Services-AI-Skills/issues"
+  },
+  "keywords": [
+    "ai-skills",
+    "agentic-ai",
+    "prompt-engineering",
+    "developer-tools",
+    "spring-boot",
+    "azure",
+    "aws",
+    "kubernetes",
+    "datadog",
+    "shopify-hydrogen"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
