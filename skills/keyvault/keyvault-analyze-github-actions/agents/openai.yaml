@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Key Vault Analyze GitHub Actions"
+  short_description: "Analyze GitHub Actions integration with Azure Key Vault using OIDC/federated identity, Azure login, managed access,"

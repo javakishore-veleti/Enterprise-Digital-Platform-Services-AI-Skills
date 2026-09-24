@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Key Vault Analyze Bicep ARM"
+  short_description: "Analyze Bicep or ARM templates for Azure Key Vault, Managed HSM, RBAC, networking, diagnostics, keys, and dependent"

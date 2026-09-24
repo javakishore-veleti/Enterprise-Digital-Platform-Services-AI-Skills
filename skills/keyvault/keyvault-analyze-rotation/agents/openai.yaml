@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Key Vault Analyze Rotation"
+  short_description: "Analyze Azure Key Vault rotation for secrets, keys, and certificates, including rotation policies, version rollover"

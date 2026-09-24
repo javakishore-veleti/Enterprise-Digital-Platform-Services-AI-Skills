@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Key Vault Analyze RBAC"
+  short_description: "Analyze Azure Key Vault Azure RBAC configuration, role assignments, scopes, principals, data-plane access, least pr"

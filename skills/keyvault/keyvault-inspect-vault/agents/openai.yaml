@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Key Vault Inspect Vault"
+  short_description: "Inspect Azure Key Vault configuration, SKU, RBAC/access model, networking, private endpoints, soft delete, purge pr"

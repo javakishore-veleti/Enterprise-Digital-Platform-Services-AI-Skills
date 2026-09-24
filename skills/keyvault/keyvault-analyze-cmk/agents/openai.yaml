@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Key Vault Analyze CMK"
+  short_description: "Analyze customer-managed key integrations where Azure services use Key Vault or Managed HSM keys for encryption at "

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Key Vault Analyze Networking"
+  short_description: "Analyze Azure Key Vault networking including firewall rules, public network access, private endpoints, private DNS,"

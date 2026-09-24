@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Key Vault Diagnose Runtime"
+  short_description: "Diagnose Azure Key Vault runtime failures end-to-end across identity, RBAC/access policies, networking/private endp"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Key Vault Analyze Keys"
+  short_description: "Analyze Azure Key Vault cryptographic key configuration and lifecycle, including key types, algorithms, versions, r"

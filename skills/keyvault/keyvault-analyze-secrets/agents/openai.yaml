@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Key Vault Analyze Secrets"
+  short_description: "Analyze Azure Key Vault secret lifecycle and application usage, including versions, expiration, content-type/metada"

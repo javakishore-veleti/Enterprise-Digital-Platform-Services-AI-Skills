@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Key Vault Analyze Recovery"
+  short_description: "Analyze Azure Key Vault soft-delete, purge protection, recovery, backup/restore considerations, deleted objects, an"

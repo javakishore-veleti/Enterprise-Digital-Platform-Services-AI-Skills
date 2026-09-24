@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Key Vault Analyze Managed Identity"
+  short_description: "Analyze system-assigned and user-assigned managed identity access to Azure Key Vault, including principal mapping, "

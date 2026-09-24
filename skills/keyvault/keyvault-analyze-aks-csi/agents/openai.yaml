@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Key Vault Analyze AKS CSI"
+  short_description: "Analyze Azure Key Vault Secrets Store CSI Driver integration with AKS, including SecretProviderClass, Workload Iden"

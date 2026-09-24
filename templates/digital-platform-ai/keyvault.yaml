@@ -1,0 +1,45 @@
+keyvault:
+  environments:
+    dev:
+      vault: checkout-kv-dev
+      resourceGroup: checkout-dev-rg
+      subscriptionRef: enterprise-dev
+    prod:
+      vault: checkout-kv-prod
+      resourceGroup: checkout-prod-rg
+      subscriptionRef: enterprise-prod
+
+  authorization:
+    model: rbac
+
+  networking:
+    publicNetworkAccess: disabled
+    privateEndpointEnabled: true
+
+  identity:
+    preferredMode: managed-identity
+    userAssignedIdentityRef: checkout-service-identity
+
+  objects:
+    secrets:
+      - name: downstream-client-secret
+        referenceOnly: true
+    keys: []
+    certificates: []
+
+  rotation:
+    enabled: true
+
+  aks:
+    secretsStoreCsiEnabled: true
+    workloadIdentityEnabled: true
+
+  managedHsm:
+    enabled: false
+
+  diagnostics:
+    enabled: true
+    provider: datadog
+
+# Store object names, resource IDs, and references only.
+# Never store secret values, private keys, certificate passwords, access tokens, or credentials in Git.

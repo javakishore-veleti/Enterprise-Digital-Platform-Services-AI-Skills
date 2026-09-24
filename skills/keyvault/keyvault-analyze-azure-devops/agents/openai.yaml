@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Key Vault Analyze Azure DevOps"
+  short_description: "Analyze Azure DevOps pipelines and variable-group integration with Azure Key Vault, service connections, RBAC, secr"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Key Vault Analyze Certificates"
+  short_description: "Analyze Azure Key Vault certificate lifecycle, policy, issuance, renewal, versions, chain/bundle handling, private-"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Key Vault Analyze Access Policy"
+  short_description: "Analyze legacy Azure Key Vault access policies, object IDs, secret/key/certificate permissions, migration considera"

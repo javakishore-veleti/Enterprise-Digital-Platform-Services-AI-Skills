@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Key Vault Analyze Managed HSM"
+  short_description: "Analyze Azure Key Vault Managed HSM architecture, security domain, local RBAC data-plane access, Azure RBAC control"
