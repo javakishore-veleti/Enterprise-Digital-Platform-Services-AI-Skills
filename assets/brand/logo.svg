@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+<title id="title">Enterprise Digital Platform Services AI Skills</title>
+<desc id="desc">A geometric enterprise AI skills mark combining a platform grid and connected intelligence nodes.</desc>
+<rect width="512" height="512" rx="96" fill="#0f172a"/>
+<rect x="86" y="86" width="340" height="340" rx="52" fill="#111827" stroke="#38bdf8" stroke-width="12"/>
+<path d="M150 174h212M150 256h212M150 338h212M174 150v212M256 150v212M338 150v212" stroke="#334155" stroke-width="8"/>
+<circle cx="174" cy="174" r="20" fill="#38bdf8"/>
+<circle cx="338" cy="174" r="20" fill="#a78bfa"/>
+<circle cx="256" cy="256" r="28" fill="#22c55e"/>
+<circle cx="174" cy="338" r="20" fill="#f59e0b"/>
+<circle cx="338" cy="338" r="20" fill="#f43f5e"/>
+<path d="M189 189l48 48M323 189l-48 48M189 323l48-48M323 323l-48-48" stroke="#e2e8f0" stroke-width="10" stroke-linecap="round"/>
+</svg>
