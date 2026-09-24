@@ -1,0 +1,42 @@
+name: Generate Documentation Brand Images
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/generate-doc-images.yml'
+      - 'assets/brand/banner.svg'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install SVG renderer
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y librsvg2-bin imagemagick
+
+      - name: Generate PNG and JPEG
+        run: |
+          mkdir -p docs/Images
+          rsvg-convert -w 1600 -h 480 assets/brand/banner.svg -o docs/Images/enterprise-ai-skills-logo.png
+          convert docs/Images/enterprise-ai-skills-logo.png -background white -alpha remove -alpha off -quality 94 docs/Images/enterprise-ai-skills-logo.jpg
+
+      - name: Commit generated images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/Images/enterprise-ai-skills-logo.png docs/Images/enterprise-ai-skills-logo.jpg
+          if git diff --cached --quiet; then
+            echo "Images are already current."
+            exit 0
+          fi
+          git commit -m "Add PNG and JPEG documentation brand images"
+          git push
