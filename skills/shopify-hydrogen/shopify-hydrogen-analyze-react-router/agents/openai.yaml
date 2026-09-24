@@ -1,0 +1,3 @@
+interface:
+  display_name: "Shopify Hydrogen Analyze React Router"
+  short_description: "Analyze current Hydrogen React Router application structure, route modules, loaders, actions, SSR, deferred data, n"

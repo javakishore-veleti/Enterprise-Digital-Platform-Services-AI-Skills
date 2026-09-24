@@ -1,0 +1,3 @@
+interface:
+  display_name: "Shopify Hydrogen Analyze API Version Upgrade"
+  short_description: "Analyze Shopify Storefront API, Customer Account API, and Hydrogen package version upgrades, deprecated fields/comp"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Shopify Hydrogen Analyze Storefront API"
+  short_description: "Analyze Shopify Storefront GraphQL API queries, mutations, fragments, variables, payload size, errors, throttling/c"

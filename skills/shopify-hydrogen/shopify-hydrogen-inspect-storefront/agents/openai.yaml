@@ -1,0 +1,3 @@
+interface:
+  display_name: "Shopify Hydrogen Inspect Storefront"
+  short_description: "Inspect a Shopify Hydrogen headless storefront across React Router architecture, Shopify API clients, routes, loade"

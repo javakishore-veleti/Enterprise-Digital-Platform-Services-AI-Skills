@@ -1,0 +1,3 @@
+interface:
+  display_name: "Shopify Hydrogen Analyze Customer Account"
+  short_description: "Analyze Shopify Customer Account API authentication, OAuth authorization flow, sessions, customer queries, order hi"

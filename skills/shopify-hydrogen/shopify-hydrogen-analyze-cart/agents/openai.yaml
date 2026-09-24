@@ -1,0 +1,3 @@
+interface:
+  display_name: "Shopify Hydrogen Analyze Cart"
+  short_description: "Analyze Hydrogen server-side cart architecture, cart handler, CartForm actions, add/update/remove lines, buyer iden"

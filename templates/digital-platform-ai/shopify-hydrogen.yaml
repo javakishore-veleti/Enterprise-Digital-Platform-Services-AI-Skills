@@ -1,0 +1,53 @@
+shopifyHydrogen:
+  storefront:
+    nameRef: patients-storefront
+    storefrontIdRef: shopify-storefront-id
+    publicStoreDomainRef: shop-domain
+    hosting: oxygen
+
+  environments:
+    dev:
+      storefrontRef: patients-dev
+    qa:
+      storefrontRef: patients-qa
+    stg:
+      storefrontRef: patients-stg
+    prod:
+      storefrontRef: patients-prod
+
+  apis:
+    storefrontApi:
+      versionRef: repository-defined
+      privateTokenRef: shopify-storefront-private-token
+    customerAccountApi:
+      enabled: true
+      clientIdRef: shopify-customer-account-client
+    adminApi:
+      directFromHydrogen: false
+
+  commerce:
+    cart: true
+    customerAccounts: true
+    b2b: false
+    markets: true
+    search: true
+
+  caching:
+    storefrontPublicData: enabled
+    customerAccountData: disabled
+    personalizedData: disabled
+
+  integrations:
+    enterpriseMiddlewareRef: ecommerce-middleware
+    cmsRef: null
+    loyaltyRef: null
+    inventoryRef: null
+
+  observability:
+    provider: datadog
+
+  security:
+    sessionSecretRef: hydrogen-session-secret
+
+# Store identifiers, architecture intent, API versions, and secret references only.
+# Never store Storefront API private tokens, Admin API tokens, session secrets, customer PII, or credentials in Git.

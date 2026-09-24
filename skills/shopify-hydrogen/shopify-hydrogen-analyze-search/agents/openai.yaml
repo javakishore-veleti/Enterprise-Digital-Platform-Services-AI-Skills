@@ -1,0 +1,3 @@
+interface:
+  display_name: "Shopify Hydrogen Analyze Search"
+  short_description: "Analyze Shopify storefront search and predictive-search implementations in Hydrogen, query behavior, result types, "

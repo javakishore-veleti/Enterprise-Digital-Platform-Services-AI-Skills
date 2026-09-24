@@ -1,0 +1,3 @@
+interface:
+  display_name: "Shopify Hydrogen Trace Commerce Flow"
+  short_description: "Trace a Hydrogen commerce flow end-to-end from browser route through loader/action, Shopify APIs, cart/customer con"

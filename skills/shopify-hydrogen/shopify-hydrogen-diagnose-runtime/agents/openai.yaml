@@ -1,0 +1,3 @@
+interface:
+  display_name: "Shopify Hydrogen Diagnose Runtime"
+  short_description: "Diagnose Shopify Hydrogen storefront failures across routes, loaders/actions, Storefront API, Customer Account API,"

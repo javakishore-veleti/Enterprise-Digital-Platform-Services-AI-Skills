@@ -1,0 +1,3 @@
+interface:
+  display_name: "Shopify Hydrogen Analyze Oxygen"
+  short_description: "Analyze Hydrogen deployment to Shopify Oxygen including environments, bindings, runtime constraints, deployment beh"
