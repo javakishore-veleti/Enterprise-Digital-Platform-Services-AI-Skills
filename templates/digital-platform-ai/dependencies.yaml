@@ -1,0 +1,15 @@
+services:
+  - name: pricing-service
+    protocol: REST
+  - name: inventory-service
+    protocol: REST
+
+datastores:
+  - name: checkout-db
+    technology: postgresql
+  - name: checkout-cache
+    technology: redis
+
+messaging:
+  - name: checkout-events
+    technology: kafka

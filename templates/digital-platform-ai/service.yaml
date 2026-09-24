@@ -1,0 +1,11 @@
+service:
+  name: checkout-service
+  technology: spring-boot
+  owner: checkout-team
+
+repositories:
+  application: checkout-service
+  operations: checkout-service-ops
+
+runtime:
+  platform: aks

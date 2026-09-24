@@ -1,0 +1,11 @@
+authentication:
+  type: oauth2
+  credentialSource: azure-key-vault
+  keyVault: checkout-kv
+
+  secrets:
+    clientIdRef: checkout-client-id
+    clientSecretRef: checkout-client-secret
+
+# Store references only.
+# Never store client secrets, passwords, JWTs, or access tokens in Git.

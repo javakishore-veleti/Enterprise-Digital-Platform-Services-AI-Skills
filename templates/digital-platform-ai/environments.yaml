@@ -1,0 +1,6 @@
+environments:
+  - name: dev
+  - name: qa
+  - name: stg
+  - name: preprod
+  - name: prod

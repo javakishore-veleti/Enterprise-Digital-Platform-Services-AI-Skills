@@ -1,0 +1,7 @@
+observability:
+  provider: datadog
+  service: checkout-service
+
+  correlation:
+    requestIdHeader: X-Request-ID
+    traceIdEnabled: true
