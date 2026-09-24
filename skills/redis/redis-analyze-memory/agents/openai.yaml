@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Redis Analyze Memory"
+  short_description: "Analyze Azure Redis memory usage, fragmentation, keyspace growth, TTL coverage, eviction behavior, large keys, and "

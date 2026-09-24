@@ -1,0 +1,49 @@
+redis:
+  provider: azure
+  service: azure-managed-redis
+
+  environments:
+    dev:
+      instance: checkout-redis-dev
+      region: eastus
+    prod:
+      instance: checkout-redis-prod
+      region: eastus
+
+  workload:
+    patterns:
+      - cache-aside
+    client: lettuce
+
+  clustering:
+    enabled: true
+    policy: oss
+
+  authentication:
+    mode: entra-id
+    managedIdentity: true
+
+  networking:
+    publicAccess: false
+    privateEndpoint: true
+
+  persistence:
+    enabled: false
+
+  geoReplication:
+    enabled: false
+
+  modules:
+    search: false
+    json: false
+    bloom: false
+    timeSeries: false
+
+  observability:
+    provider: datadog
+
+  migration:
+    legacyAzureCacheForRedis: false
+
+# Store identifiers, architecture intent, and references only.
+# Do not store access keys, tokens, passwords, connection strings, or cached sensitive values in Git.

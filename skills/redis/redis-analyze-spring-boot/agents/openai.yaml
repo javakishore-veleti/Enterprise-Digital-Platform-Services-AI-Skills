@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Redis Analyze Spring Boot"
+  short_description: "Analyze Spring Boot and Java integration with Azure Redis including Lettuce or Jedis, Spring Cache, serialization, "

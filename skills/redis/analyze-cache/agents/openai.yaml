@@ -1,3 +1,0 @@
-interface:
-  display_name: "Redis Analyze Cache"
-  short_description: "Analyze Redis runtime behavior and cache-related failures."

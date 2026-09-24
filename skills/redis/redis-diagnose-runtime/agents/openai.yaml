@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Redis Diagnose Runtime"
+  short_description: "Diagnose Azure Redis runtime failures across clients, connections, latency, timeouts, memory, CPU, server load, net"

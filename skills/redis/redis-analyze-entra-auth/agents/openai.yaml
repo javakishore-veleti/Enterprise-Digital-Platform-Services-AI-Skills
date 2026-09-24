@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Redis Analyze Entra Authentication"
+  short_description: "Analyze Microsoft Entra authentication and managed-identity access to Azure Managed Redis, including Redis users, p"

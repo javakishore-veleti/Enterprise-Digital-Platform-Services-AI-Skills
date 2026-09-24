@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Redis Inspect Runtime"
+  short_description: "Route Azure Redis investigations across Azure Managed Redis and legacy Azure Cache for Redis, resolving service typ"

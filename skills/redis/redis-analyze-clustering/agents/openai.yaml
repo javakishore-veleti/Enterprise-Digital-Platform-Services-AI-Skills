@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Redis Analyze Clustering"
+  short_description: "Analyze Azure Managed Redis clustering policy, shard topology, key distribution, cross-slot behavior, scaling const"

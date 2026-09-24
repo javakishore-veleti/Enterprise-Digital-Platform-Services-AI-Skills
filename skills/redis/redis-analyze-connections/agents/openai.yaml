@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Redis Analyze Connections"
+  short_description: "Analyze Azure Redis client connection lifecycle, pooling or multiplexing, reconnect behavior, TLS, timeouts, retry "

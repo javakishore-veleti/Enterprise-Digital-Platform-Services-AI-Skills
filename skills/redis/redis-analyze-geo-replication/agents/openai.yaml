@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Redis Analyze Geo Replication"
+  short_description: "Analyze Azure Managed Redis active geo-replication, regional topology, conflict behavior, application routing, fail"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Redis Analyze Persistence"
+  short_description: "Analyze Azure Managed Redis RDB and AOF persistence, durability expectations, recovery behavior, storage encryption"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Redis Analyze Migration"
+  short_description: "Analyze migration from retiring Azure Cache for Redis tiers to Azure Managed Redis, including compatibility, tier m"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Redis Analyze Streams"
+  short_description: "Analyze Redis Streams on Azure Redis including consumer groups, pending entries, acknowledgements, lag, trimming, r"

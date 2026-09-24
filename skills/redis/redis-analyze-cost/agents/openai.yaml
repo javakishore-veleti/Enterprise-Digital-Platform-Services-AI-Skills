@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Redis Analyze Cost"
+  short_description: "Analyze Azure Managed Redis cost drivers including tier, memory, clustering, replicas, geo-replication, persistence"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Redis Analyze Cache"
+  short_description: "Analyze Azure Redis cache behavior including cache-aside, TTLs, hit ratio, misses, stale data, stampedes, key desig"

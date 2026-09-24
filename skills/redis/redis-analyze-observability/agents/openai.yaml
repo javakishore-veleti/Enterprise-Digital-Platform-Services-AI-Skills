@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Redis Analyze Observability"
+  short_description: "Analyze Azure Redis metrics, logs, connection audit evidence, alerts, application telemetry, and Datadog correlatio"

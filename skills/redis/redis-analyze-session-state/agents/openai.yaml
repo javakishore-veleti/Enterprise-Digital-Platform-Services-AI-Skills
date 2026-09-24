@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure Redis Analyze Session State"
+  short_description: "Analyze Azure Redis distributed session-state patterns for stateless applications and AKS workloads, including TTLs"
