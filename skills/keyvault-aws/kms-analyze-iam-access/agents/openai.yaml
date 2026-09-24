@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS KMS Analyze IAM Access"
+  short_description: "Analyze IAM identity policies, SCPs, permission boundaries, session policies, and KMS authorization interactions. U"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS KMS Analyze Key Policy"
+  short_description: "Analyze AWS KMS key policies, IAM delegation, principals, conditions, administrative permissions, cryptographic per"

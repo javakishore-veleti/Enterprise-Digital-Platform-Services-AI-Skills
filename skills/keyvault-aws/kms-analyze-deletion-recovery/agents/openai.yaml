@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS KMS Analyze Deletion Recovery"
+  short_description: "Analyze AWS KMS key disablement, scheduled deletion, deletion windows, cancellation, dependent-service impact, and "

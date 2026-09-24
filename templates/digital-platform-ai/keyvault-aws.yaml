@@ -1,0 +1,43 @@
+kms:
+  environments:
+    dev:
+      accountRef: enterprise-dev
+      region: us-east-1
+      keyAlias: alias/checkout-service
+    prod:
+      accountRef: enterprise-prod
+      region: us-east-1
+      keyAlias: alias/checkout-service
+
+  key:
+    usage: ENCRYPT_DECRYPT
+    spec: SYMMETRIC_DEFAULT
+    origin: AWS_KMS
+    multiRegion: false
+
+  rotation:
+    automaticEnabled: true
+
+  authorization:
+    model: key-policy-and-iam
+
+  application:
+    envelopeEncryption: true
+    encryptionContextEnabled: true
+
+  serviceIntegrations:
+    secretsManager: false
+    eks: false
+    s3: false
+    rds: false
+    dynamodb: false
+
+  customKeyStore:
+    enabled: false
+
+  observability:
+    cloudTrailEnabled: true
+    provider: datadog
+
+# Store key ARNs/aliases, resource IDs, architecture intent, and references only.
+# Never store plaintext data keys, imported key material, credentials, tokens, or secrets in Git.

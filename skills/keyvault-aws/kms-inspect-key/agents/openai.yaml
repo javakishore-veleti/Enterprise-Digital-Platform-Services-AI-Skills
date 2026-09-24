@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS KMS Inspect Key"
+  short_description: "Inspect AWS KMS key metadata, origin, key spec, usage, state, aliases, policies, grants, rotation, multi-Region sta"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS KMS Analyze Service CMK"
+  short_description: "Analyze AWS service integrations that use customer managed KMS keys, including service principals, grants, key poli"

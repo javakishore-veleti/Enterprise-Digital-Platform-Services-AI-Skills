@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS KMS Analyze Spring Boot"
+  short_description: "Analyze Spring Boot and Java integration with AWS KMS, including AWS SDK clients, credential providers, envelope en"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS KMS Analyze Envelope Encryption"
+  short_description: "Analyze AWS KMS envelope encryption patterns, GenerateDataKey usage, data-key lifecycle, encryption context, cachin"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS KMS Analyze EKS Integration"
+  short_description: "Analyze AWS KMS integration with Amazon EKS, including Kubernetes secrets envelope encryption, KMS provider configu"

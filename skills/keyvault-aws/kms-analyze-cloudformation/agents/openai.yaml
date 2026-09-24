@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS KMS Analyze CloudFormation"
+  short_description: "Analyze CloudFormation configuration for AWS KMS keys, aliases, policies, multi-Region behavior, rotation, and depe"
