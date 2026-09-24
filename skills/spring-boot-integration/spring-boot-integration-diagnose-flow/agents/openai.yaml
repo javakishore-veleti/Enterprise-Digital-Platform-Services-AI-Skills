@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Diagnose Integration Flow"
+  short_description: "Diagnose Spring Integration failures across channels, handlers, adapters, routing, correlation, timeouts, and downs"

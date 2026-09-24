@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Redis Integration"
+  short_description: "Analyze Spring Boot Redis cache integration, serialization, connection factories, cache manager configuration, and "

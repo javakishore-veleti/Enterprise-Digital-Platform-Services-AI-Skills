@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Producer"
+  short_description: "Analyze Spring Boot message producers, serialization, batching, retries, idempotence, transaction boundaries, and p"

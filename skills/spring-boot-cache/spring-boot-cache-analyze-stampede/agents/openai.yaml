@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Cache Stampede"
+  short_description: "Analyze cache stampedes, dogpiles, hot keys, request coalescing, synchronization, TTL jitter, and backend protectio"

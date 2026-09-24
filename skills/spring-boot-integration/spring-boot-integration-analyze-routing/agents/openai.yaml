@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Routing"
+  short_description: "Analyze content-based routing, recipient lists, filters, splitters, aggregators, and message correlation."

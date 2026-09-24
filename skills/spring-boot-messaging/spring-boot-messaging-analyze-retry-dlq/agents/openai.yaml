@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Retry DLQ"
+  short_description: "Analyze retry, backoff, dead-letter queue/topic, poison-message handling, idempotency, and replay patterns."

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Gateway"
+  short_description: "Analyze Spring Cloud Gateway routes, predicates, filters, headers, retries, timeouts, security, and routing failure"

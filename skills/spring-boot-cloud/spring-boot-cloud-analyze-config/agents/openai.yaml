@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Cloud Config"
+  short_description: "Analyze Spring Cloud Config/bootstrap configuration, refresh behavior, precedence, secrets references, and environm"

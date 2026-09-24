@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Message Contract"
+  short_description: "Analyze event/message schemas, serialization, compatibility, headers, correlation IDs, and consumer evolution."

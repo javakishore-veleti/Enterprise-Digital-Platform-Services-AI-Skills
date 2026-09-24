@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Consumer"
+  short_description: "Analyze Spring Boot consumers/listeners, concurrency, acknowledgements, retries, backpressure, error handling, and "

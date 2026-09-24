@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Cache Invalidation"
+  short_description: "Analyze cache invalidation, eviction timing, stale data, domain events, and consistency across service instances."

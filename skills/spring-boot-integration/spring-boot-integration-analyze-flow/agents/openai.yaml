@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Integration Flow"
+  short_description: "Analyze Spring Integration channels, endpoints, transformers, routers, filters, service activators, and message flo"

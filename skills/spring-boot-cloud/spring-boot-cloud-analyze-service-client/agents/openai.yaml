@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Service Client"
+  short_description: "Analyze Spring Cloud service-to-service client behavior, discovery, load balancing, timeouts, retries, and dependen"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Cache"
+  short_description: "Analyze Spring Cache abstraction, cache managers, annotations, key generation, TTLs, invalidation, and cache consis"

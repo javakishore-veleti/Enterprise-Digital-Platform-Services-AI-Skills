@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Discovery"
+  short_description: "Analyze service discovery registration, lookup, health, stale instances, DNS/service registry behavior, and client "

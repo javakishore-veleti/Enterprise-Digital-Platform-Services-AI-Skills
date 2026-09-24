@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Chunk Processing"
+  short_description: "Analyze Spring Batch readers, processors, writers, chunk size, transactions, skips, retries, and checkpointing."

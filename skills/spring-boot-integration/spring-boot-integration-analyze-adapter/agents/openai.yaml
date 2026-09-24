@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Adapter"
+  short_description: "Analyze Spring Integration inbound/outbound adapters, gateways, polling, acknowledgements, and external system beha"

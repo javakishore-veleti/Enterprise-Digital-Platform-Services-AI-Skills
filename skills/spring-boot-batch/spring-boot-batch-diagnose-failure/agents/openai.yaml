@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Diagnose Batch Failure"
+  short_description: "Diagnose failed or stuck Spring Batch executions using job repository state, logs, step metrics, retries, and depen"

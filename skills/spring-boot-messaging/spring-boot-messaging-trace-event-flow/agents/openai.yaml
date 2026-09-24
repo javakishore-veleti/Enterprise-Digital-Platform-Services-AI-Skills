@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Trace Event Flow"
+  short_description: "Trace an event from producer through broker/stream, consumer, business processing, retries, and downstream side eff"

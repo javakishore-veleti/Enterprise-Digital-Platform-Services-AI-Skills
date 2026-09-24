@@ -1,5 +1,8 @@
 # spring-boot-integration
 
-Enterprise Digital Platform AI capability family for Spring Integration flows, adapters, gateways, channels, transformers, routers, enterprise integration patterns, and system-to-system orchestration.
+Enterprise Digital Platform AI skills for Spring Boot integration.
 
-Public skills created inside this folder must use the `spring-boot-integration-` prefix when the capability name alone could be ambiguous. Cross-stack concerns should route to the owning technology family rather than duplicate platform-specific knowledge.
+- `spring-boot-integration-analyze-flow`
+- `spring-boot-integration-analyze-adapter`
+- `spring-boot-integration-analyze-routing`
+- `spring-boot-integration-diagnose-flow`

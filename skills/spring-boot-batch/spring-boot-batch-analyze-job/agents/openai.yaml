@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Batch Job"
+  short_description: "Analyze Spring Batch jobs, steps, job parameters, restartability, execution state, and failure behavior."

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Partitioning"
+  short_description: "Analyze Spring Batch partitioning, remote partitioning, worker scaling, data distribution, and restart behavior."
