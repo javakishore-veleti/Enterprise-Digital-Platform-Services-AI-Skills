@@ -1,0 +1,32 @@
+name: Package Release Check
+
+on:
+  pull_request:
+    paths:
+      - package.json
+      - skills/**
+      - standards/**
+      - harnesses/**
+      - templates/**
+      - bin/**
+      - scripts/**
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Build package tarball
+        run: npm pack
+      - name: Show package metadata
+        run: |
+          node -p "'Package: ' + require('./package.json').name"
+          node -p "'Version: ' + require('./package.json').version"
+          ls -lh *.tgz
