@@ -1,4 +1,5 @@
 name: Generate Documentation Brand Images
+# Generates README/newsletter-ready raster assets from the canonical SVG.
 
 on:
   push:
