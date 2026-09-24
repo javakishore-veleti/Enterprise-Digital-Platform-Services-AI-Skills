@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze Azure AI"
+  short_description: "Analyze Azure AI integration extensions for Azure Database for PostgreSQL Flexible Server when supported, including"

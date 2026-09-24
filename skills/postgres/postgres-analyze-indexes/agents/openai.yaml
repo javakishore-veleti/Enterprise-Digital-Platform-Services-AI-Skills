@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze Indexes"
+  short_description: "Analyze PostgreSQL indexes on Azure Flexible Server including B-tree, GIN, GiST, BRIN, partial, expression, coverin"

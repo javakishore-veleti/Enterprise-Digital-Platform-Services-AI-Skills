@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze Monitoring"
+  short_description: "Analyze Azure PostgreSQL Flexible Server metrics, logs, query telemetry, wait/resource signals, alerts, Azure Monit"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze Vacuum Bloat"
+  short_description: "Analyze PostgreSQL autovacuum, dead tuples, table/index bloat, transaction ID age, freeze behavior, statistics main"

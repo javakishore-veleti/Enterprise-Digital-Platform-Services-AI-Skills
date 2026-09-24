@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze Oracle Modernization"
+  short_description: "Analyze Oracle-to-Azure PostgreSQL modernization including schema and datatype mapping, PL/SQL to PL/pgSQL conversi"

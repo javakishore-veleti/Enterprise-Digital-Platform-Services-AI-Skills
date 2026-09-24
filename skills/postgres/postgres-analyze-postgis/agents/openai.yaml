@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze PostGIS"
+  short_description: "Analyze PostGIS on Azure Database for PostgreSQL Flexible Server, including spatial types, SRIDs, GiST/SP-GiST inde"

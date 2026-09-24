@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze Graph"
+  short_description: "Analyze graph workloads on Azure Database for PostgreSQL Flexible Server using Apache AGE or other supported graph "

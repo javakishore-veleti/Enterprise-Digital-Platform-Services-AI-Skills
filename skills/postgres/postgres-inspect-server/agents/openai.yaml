@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Inspect Server"
+  short_description: "Inspect Azure Database for PostgreSQL Flexible Server configuration, compute/storage, PostgreSQL version, HA, repli"

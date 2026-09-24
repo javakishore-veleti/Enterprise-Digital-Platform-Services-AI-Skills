@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze Read Replicas"
+  short_description: "Analyze Azure PostgreSQL Flexible Server read replicas, replication lag, read scaling, replica topology, applicatio"

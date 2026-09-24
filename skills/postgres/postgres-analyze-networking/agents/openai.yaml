@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze Networking"
+  short_description: "Analyze Azure Database for PostgreSQL Flexible Server networking including private access/VNet integration, private"

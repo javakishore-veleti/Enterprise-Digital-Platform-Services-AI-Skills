@@ -1,0 +1,66 @@
+postgres:
+  environments:
+    dev:
+      serverRef: checkout-postgres-dev
+      database: checkout
+      resourceGroup: checkout-dev-rg
+      region: eastus
+    prod:
+      serverRef: checkout-postgres-prod
+      database: checkout
+      resourceGroup: checkout-prod-rg
+      region: eastus
+
+  platform:
+    provider: azure
+    service: flexible-server
+
+  engine:
+    versionRef: enterprise-supported
+    extensions:
+      - pg_stat_statements
+
+  compute:
+    tier: general-purpose
+    sizeRef: enterprise-standard
+
+  storage:
+    typeRef: managed
+    autoGrow: true
+
+  availability:
+    highAvailability: true
+    mode: zone-redundant
+    readReplicas: []
+
+  backup:
+    enabled: true
+    pointInTimeRestore: true
+
+  networking:
+    privateAccess: true
+    publicAccess: false
+
+  authentication:
+    entraEnabled: true
+    managedIdentityPreferred: true
+    credentialRef: checkout-postgres-auth
+
+  encryption:
+    customerManagedKey: false
+    keyVaultKeyRef: null
+
+  pooling:
+    pgbouncerEnabled: false
+
+  ai:
+    pgvectorEnabled: false
+    diskannEnabled: false
+    azureAiExtensionEnabled: false
+    localAiExtensionEnabled: false
+
+  observability:
+    provider: datadog
+
+# Store server/database identifiers, architecture intent, and secret references only.
+# Never store PostgreSQL passwords, access tokens, private keys, connection-string credentials, or secrets in Git.

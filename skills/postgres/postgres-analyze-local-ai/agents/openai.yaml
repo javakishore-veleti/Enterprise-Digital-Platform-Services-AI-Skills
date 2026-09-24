@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze Local AI"
+  short_description: "Analyze Azure local AI/embedding capabilities exposed through Azure Database for PostgreSQL Flexible Server when su"

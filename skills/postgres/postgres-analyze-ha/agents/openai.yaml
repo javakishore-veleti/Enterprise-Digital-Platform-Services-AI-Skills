@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze HA"
+  short_description: "Analyze Azure Database for PostgreSQL Flexible Server high availability, zone-redundant or same-zone standby archit"

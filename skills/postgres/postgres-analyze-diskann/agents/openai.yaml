@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze DiskANN"
+  short_description: "Analyze DiskANN-based vector indexing/search on Azure Database for PostgreSQL Flexible Server when supported by the"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze Entra Auth"
+  short_description: "Analyze Microsoft Entra authentication for Azure Database for PostgreSQL Flexible Server, including administrators,"

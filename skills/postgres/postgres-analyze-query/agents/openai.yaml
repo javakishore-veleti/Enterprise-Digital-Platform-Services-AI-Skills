@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze Query"
+  short_description: "Analyze PostgreSQL query performance on Azure Flexible Server using EXPLAIN/EXPLAIN ANALYZE, pg_stat_statements whe"

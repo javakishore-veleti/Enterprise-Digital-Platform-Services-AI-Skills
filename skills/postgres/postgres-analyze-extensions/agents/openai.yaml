@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze Extensions"
+  short_description: "Analyze PostgreSQL extensions available on Azure Flexible Server, including allowlisting/support, version compatibi"

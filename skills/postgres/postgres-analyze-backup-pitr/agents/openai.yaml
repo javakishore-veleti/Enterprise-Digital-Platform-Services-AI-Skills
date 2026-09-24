@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze Backup PITR"
+  short_description: "Analyze Azure PostgreSQL Flexible Server automated backups, retention, point-in-time restore, geo-redundant backup "

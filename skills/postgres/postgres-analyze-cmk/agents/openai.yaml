@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze CMK"
+  short_description: "Analyze customer-managed key encryption for Azure Database for PostgreSQL Flexible Server, including Azure Key Vaul"

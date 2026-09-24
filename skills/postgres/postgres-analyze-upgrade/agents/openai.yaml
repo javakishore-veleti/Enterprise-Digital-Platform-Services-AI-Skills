@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze Upgrade"
+  short_description: "Analyze Azure PostgreSQL Flexible Server major-version upgrade readiness, prechecks, extensions, parameters, applic"

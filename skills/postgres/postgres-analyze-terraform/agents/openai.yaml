@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze Terraform"
+  short_description: "Analyze Terraform configuration for Azure Database for PostgreSQL Flexible Server including compute, storage, HA, r"

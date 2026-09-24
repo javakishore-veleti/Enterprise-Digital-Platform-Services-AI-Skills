@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze PgBouncer"
+  short_description: "Analyze Azure PostgreSQL Flexible Server built-in PgBouncer where supported/enabled, including pooling mode, client"

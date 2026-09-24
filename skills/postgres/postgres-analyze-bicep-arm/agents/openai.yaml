@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze Bicep ARM"
+  short_description: "Analyze Bicep or ARM templates for Azure Database for PostgreSQL Flexible Server, including server, databases, netw"

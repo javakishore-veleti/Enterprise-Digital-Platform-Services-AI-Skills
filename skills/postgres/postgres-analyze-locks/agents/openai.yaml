@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze Locks"
+  short_description: "Analyze PostgreSQL locks, blocking sessions, deadlocks, long-running transactions, MVCC impact, transaction age, an"

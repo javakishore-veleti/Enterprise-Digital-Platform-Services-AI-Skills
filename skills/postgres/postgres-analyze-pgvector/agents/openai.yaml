@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze pgvector"
+  short_description: "Analyze pgvector on Azure Database for PostgreSQL Flexible Server, including vector schema, dimensions, distance op"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Azure PostgreSQL Analyze Compute Storage"
+  short_description: "Analyze Azure PostgreSQL Flexible Server compute tier, vCores, memory, storage capacity, IOPS, throughput, storage "
