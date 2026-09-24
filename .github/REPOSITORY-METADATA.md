@@ -1,21 +1,23 @@
 # Repository Metadata
 
-Use the following values for the GitHub repository About panel and Topics.
+Use these values for the GitHub repository **About** panel.
 
-## About description
+## Description
 
-Enterprise AI engineering skills for Spring Boot, cloud, data, observability, security, commerce, RAG and developer-agent workflows.
+Enterprise AI engineering skills and operating model for developer teams across Spring Boot, cloud, data, observability, security, commerce, and RAG.
 
 ## Website
 
-https://github.com/javakishore-veleti/Enterprise-Digital-Platform-Services-AI-Skills#readme
+https://productcognizant.com/chief-ai-architect-approaches-prompt-engineering-an-operating-model-for-enterprise-engineering-teams/
 
 ## Topics
 
-- agentic-ai
+- enterprise-ai
 - ai-skills
-- developer-tools
+- agentic-ai
 - prompt-engineering
+- developer-tools
+- platform-engineering
 - spring-boot
 - kubernetes
 - azure
@@ -28,7 +30,5 @@ https://github.com/javakishore-veleti/Enterprise-Digital-Platform-Services-AI-Sk
 - shopify-hydrogen
 - rag
 - llm
-- platform-engineering
 - devops
 - cloud-native
-- enterprise-ai
