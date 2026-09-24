@@ -1,0 +1,3 @@
+interface:
+  display_name: "PostgreSQL Analyze Database"
+  short_description: "Analyze PostgreSQL performance and database-related failures."

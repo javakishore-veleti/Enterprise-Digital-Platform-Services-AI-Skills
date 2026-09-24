@@ -2,13 +2,8 @@
 
 Reusable Enterprise Digital Platform AI skills for Spring Boot services.
 
-Initial scope:
+## Available Skills
 
-- Request tracing
-- Failure diagnosis
-- Authentication tracing
-- Authorization validation
-- Transaction tracing
-- Configuration analysis
-- Contract analysis
-- Test failure analysis
+- `diagnose-failure` - evidence-driven Spring Boot failure investigation
+
+Planned areas include request tracing, authentication, authorization, persistence, contracts, configuration, and test diagnostics.

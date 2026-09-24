@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Diagnose Failure"
+  short_description: "Diagnose Spring Boot failures using code and runtime evidence."
