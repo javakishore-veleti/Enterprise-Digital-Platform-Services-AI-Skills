@@ -11,7 +11,37 @@
 
 # Enterprise Digital Platform Services AI Skills
 
-A reusable enterprise AI engineering capability library for developer teams working across Spring Boot, Python, AKS, AWS, PostgreSQL, MongoDB, Redis, Kafka, Azure Event Hubs, Datadog, Shopify Hydrogen, security, AI/RAG, and related digital-platform technologies.
+## Overview
+
+**Enterprise Digital Platform Services AI Skills** is an installable enterprise engineering skill library for teams using AI coding assistants across large, heterogeneous application ecosystems.
+
+Instead of asking every engineer to repeatedly invent prompts for Spring Boot, Python, Kubernetes, databases, messaging, observability, security, commerce, and cloud services, this repository captures that knowledge as **reusable, technology-qualified skills**. Engineers install the shared library on their development machine, work inside the real application repository, and invoke focused slash skills from supported AI development tools.
+
+The model is intentionally split into three layers:
+
+1. **Enterprise skills** define **how to investigate, reason about, build, troubleshoot, and operate a technology**.
+2. **`.digital-platform-ai/` in each service repository** describes **that application's environments, dependencies, deployment repository, observability, security references, and service-specific instructions**.
+3. **Runtime evidence** from source code, logs, traces, metrics, Kubernetes, databases, caches, message platforms, and other systems grounds the AI's conclusions.
+
+This keeps enterprise engineering knowledge centralized and reusable while leaving application-specific context with the application that owns it.
+
+### Why this repository exists
+
+The approach grew from a broader **Prompt Engineering Operating Model for enterprise engineering teams**: move beyond isolated prompt snippets and establish reusable controls for instructions, context, reasoning, tool use, execution, and verification across many engineering teams and technologies.
+
+Read the practical background and operating-model rationale:
+
+**[Chief AI Architect Approaches — Prompt Engineering: An Operating Model for Enterprise Engineering Teams](https://productcognizant.com/chief-ai-architect-approaches-prompt-engineering-an-operating-model-for-enterprise-engineering-teams/)**
+
+### What this repository provides
+
+- Technology-specific slash skills with globally unambiguous names
+- Capability-oriented Spring Boot skill families rather than one generic Spring folder
+- Azure, AWS, Kubernetes, database, messaging, security, observability, AI/RAG, and commerce skills
+- Service-context templates under `.digital-platform-ai/`
+- Harness guidance for multiple AI coding environments
+- GitHub Packages distribution and an `edp-ai-skills` installation/update CLI
+- Validation and publishing workflows through GitHub Actions
 
 ## Operating Model
 
