@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze OAuth2 OIDC"
+  short_description: "Analyze OAuth2/OIDC login, resource server, client registration, scopes, claims, issuer/JWK configuration, and toke"

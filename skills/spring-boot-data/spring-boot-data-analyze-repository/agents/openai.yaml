@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Repository"
+  short_description: "Analyze Spring Data repositories, derived queries, custom queries, pagination, projections, and repository design."

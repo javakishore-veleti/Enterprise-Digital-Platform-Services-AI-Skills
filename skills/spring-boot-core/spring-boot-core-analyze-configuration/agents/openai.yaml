@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Configuration"
+  short_description: "Analyze Spring Boot externalized configuration, profiles, property sources, environment variables, YAML/properties,"

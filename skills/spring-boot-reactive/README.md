@@ -1,5 +1,8 @@
 # spring-boot-reactive
 
-Enterprise Digital Platform AI capability family for Spring WebFlux, Reactor, non-blocking APIs, reactive backpressure, reactive clients, and reactive runtime behavior.
+Enterprise Digital Platform AI skills for Spring Boot reactive.
 
-Public skills created inside this folder must use the `spring-boot-reactive-` prefix when the capability name alone could be ambiguous. Cross-stack concerns should route to the owning technology family rather than duplicate platform-specific knowledge.
+- `spring-boot-reactive-analyze-webflux`
+- `spring-boot-reactive-analyze-reactor`
+- `spring-boot-reactive-diagnose-blocking`
+- `spring-boot-reactive-analyze-webclient`

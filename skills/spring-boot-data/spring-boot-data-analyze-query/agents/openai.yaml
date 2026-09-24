@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Query"
+  short_description: "Analyze Spring Data/JPA/JDBC query behavior, generated SQL, N+1 queries, fetch strategies, and query performance."

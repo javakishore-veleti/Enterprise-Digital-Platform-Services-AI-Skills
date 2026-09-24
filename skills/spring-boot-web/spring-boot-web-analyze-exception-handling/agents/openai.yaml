@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Exception Handling"
+  short_description: "Analyze Spring MVC exception handling, ControllerAdvice, error mapping, problem details, and response consistency."

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Reactor"
+  short_description: "Analyze Reactor Mono/Flux pipelines, operators, context, scheduler usage, errors, and backpressure."

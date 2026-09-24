@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Startup"
+  short_description: "Analyze Spring Boot startup lifecycle, bean creation, context refresh, initialization order, startup failures, and "

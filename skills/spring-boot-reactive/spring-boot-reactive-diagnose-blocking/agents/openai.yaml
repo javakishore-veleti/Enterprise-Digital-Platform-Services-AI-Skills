@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Diagnose Blocking"
+  short_description: "Detect blocking calls and thread starvation in reactive Spring Boot applications."

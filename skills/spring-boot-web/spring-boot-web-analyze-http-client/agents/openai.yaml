@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze HTTP Client"
+  short_description: "Analyze RestClient, WebClient, or other HTTP client usage, timeouts, retries, pooling, serialization, and downstrea"

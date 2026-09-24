@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze WebFlux"
+  short_description: "Analyze Spring WebFlux controllers, reactive request flow, codecs, and runtime behavior."

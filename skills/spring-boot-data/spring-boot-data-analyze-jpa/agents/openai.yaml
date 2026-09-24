@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze JPA"
+  short_description: "Analyze JPA entities, mappings, persistence context, lazy loading, cascading, locking, and Hibernate behavior."

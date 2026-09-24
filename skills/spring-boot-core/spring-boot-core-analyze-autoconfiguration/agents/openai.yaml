@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Auto-Configuration"
+  short_description: "Analyze Spring Boot auto-configuration, conditions, starters, bean creation, exclusions, and configuration preceden"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze WebClient"
+  short_description: "Analyze WebClient connection pooling, timeouts, retries, codecs, reactive errors, and downstream behavior."

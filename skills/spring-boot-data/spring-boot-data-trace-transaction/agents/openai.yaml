@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Trace Transaction"
+  short_description: "Trace Spring transaction boundaries, propagation, isolation, rollback, retries, and cross-layer behavior."

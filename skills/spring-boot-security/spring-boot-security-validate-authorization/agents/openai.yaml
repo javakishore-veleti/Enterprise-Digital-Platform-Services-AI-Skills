@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Validate Authorization"
+  short_description: "Analyze URL, method, and domain authorization, roles, authorities, method security, and access-denied behavior."

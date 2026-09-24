@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze REST API"
+  short_description: "Analyze Spring MVC REST controllers, mappings, validation, serialization, status codes, and API behavior."

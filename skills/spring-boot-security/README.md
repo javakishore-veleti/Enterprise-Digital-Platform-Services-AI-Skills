@@ -1,5 +1,9 @@
 # spring-boot-security
 
-Enterprise Digital Platform AI capability family for Spring Security authentication, authorization, OAuth2/OIDC, JWT, method security, filters, CSRF/CORS, and enterprise security integration.
+Enterprise Digital Platform AI skills for Spring Boot security.
 
-Public skills created inside this folder must use the `spring-boot-security-` prefix when the capability name alone could be ambiguous. Cross-stack concerns should route to the owning technology family rather than duplicate platform-specific knowledge.
+- `spring-boot-security-trace-authentication`
+- `spring-boot-security-validate-authorization`
+- `spring-boot-security-analyze-oauth2-oidc`
+- `spring-boot-security-analyze-jwt`
+- `spring-boot-security-analyze-cors-csrf`

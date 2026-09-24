@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Trace Authentication"
+  short_description: "Trace Spring Security authentication through filter chains, tokens, authentication providers, user details, and sec"

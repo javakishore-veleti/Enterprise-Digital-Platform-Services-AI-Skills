@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Trace Request"
+  short_description: "Trace an HTTP request through filters, interceptors, controllers, services, exception handlers, and downstream call"

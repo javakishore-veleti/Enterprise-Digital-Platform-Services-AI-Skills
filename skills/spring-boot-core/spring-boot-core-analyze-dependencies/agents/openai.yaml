@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Dependencies"
+  short_description: "Analyze Spring Boot starters, dependency management, transitive conflicts, BOM alignment, incompatible libraries, a"

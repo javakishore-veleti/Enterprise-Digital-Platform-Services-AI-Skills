@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze CORS CSRF"
+  short_description: "Analyze CORS and CSRF configuration, browser behavior, trusted origins, cookies, and API security implications."

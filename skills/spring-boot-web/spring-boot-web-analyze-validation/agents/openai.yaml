@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Validation"
+  short_description: "Analyze Bean Validation on Spring Boot web requests, DTO constraints, validation groups, and error responses."

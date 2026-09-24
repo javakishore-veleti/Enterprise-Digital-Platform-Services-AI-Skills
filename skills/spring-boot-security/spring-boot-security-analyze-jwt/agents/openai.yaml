@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze JWT"
+  short_description: "Analyze JWT issuance/validation, claims, audience, issuer, expiry, clock skew, key rotation, and authorization mapp"

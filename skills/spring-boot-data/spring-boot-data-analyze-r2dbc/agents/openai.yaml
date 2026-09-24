@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze R2DBC"
+  short_description: "Analyze reactive database access with R2DBC, connection factories, reactive transactions, query behavior, and block"

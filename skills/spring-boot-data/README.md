@@ -1,5 +1,9 @@
 # spring-boot-data
 
-Enterprise Digital Platform AI capability family for Spring Data, repositories, JPA/JDBC/R2DBC integration, transactions, persistence boundaries, query behavior, and data-access architecture.
+Enterprise Digital Platform AI skills for Spring Boot data.
 
-Public skills created inside this folder must use the `spring-boot-data-` prefix when the capability name alone could be ambiguous. Cross-stack concerns should route to the owning technology family rather than duplicate platform-specific knowledge.
+- `spring-boot-data-analyze-query`
+- `spring-boot-data-trace-transaction`
+- `spring-boot-data-analyze-repository`
+- `spring-boot-data-analyze-jpa`
+- `spring-boot-data-analyze-r2dbc`
