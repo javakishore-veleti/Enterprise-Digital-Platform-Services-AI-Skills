@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Model Client"
+  short_description: "Analyze Spring AI model client configuration, providers, timeouts, retries, structured output, and runtime failures"

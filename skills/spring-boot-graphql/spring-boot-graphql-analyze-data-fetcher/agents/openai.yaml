@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Data Fetcher"
+  short_description: "Analyze GraphQL controllers/data fetchers, argument binding, exceptions, context, and resolver behavior."

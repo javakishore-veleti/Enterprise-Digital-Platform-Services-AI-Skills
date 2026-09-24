@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze gRPC Service"
+  short_description: "Analyze Spring gRPC server implementation, interceptors, serialization, deadlines, status codes, and runtime behavi"

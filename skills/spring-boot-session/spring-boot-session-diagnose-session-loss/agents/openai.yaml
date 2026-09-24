@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Diagnose Session Loss"
+  short_description: "Diagnose missing or inconsistent sessions across application instances, store failures, TTLs, cookies, and network "

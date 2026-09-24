@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze RAG"
+  short_description: "Analyze Spring AI RAG pipelines including ingestion, chunking, embeddings, vector stores, retrieval, reranking, gro"

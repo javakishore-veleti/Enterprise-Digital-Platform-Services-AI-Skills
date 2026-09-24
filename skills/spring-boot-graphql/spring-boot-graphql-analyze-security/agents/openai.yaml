@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze GraphQL Security"
+  short_description: "Analyze GraphQL authentication, field/method authorization, query depth/complexity, introspection, and abuse protec"

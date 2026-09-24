@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Session Store"
+  short_description: "Analyze Spring Session store configuration, Redis/JDBC-backed sessions, serialization, TTL, and session consistency"

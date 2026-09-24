@@ -1,5 +1,8 @@
 # spring-boot-session
 
-Enterprise Digital Platform AI capability family for Spring Session externalized session state, Redis/session stores, clustered applications, TTL, security, and session lifecycle.
+Enterprise Digital Platform AI skills for Spring Boot session.
 
-Public skills created inside this folder must use the `spring-boot-session-` prefix when the capability name alone could be ambiguous. Cross-stack concerns should route to the owning technology family rather than duplicate platform-specific knowledge.
+- `spring-boot-session-analyze-session-store`
+- `spring-boot-session-analyze-clustering`
+- `spring-boot-session-analyze-security`
+- `spring-boot-session-diagnose-session-loss`

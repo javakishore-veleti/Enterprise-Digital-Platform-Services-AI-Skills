@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Tools"
+  short_description: "Analyze Spring AI tool/function calling, schemas, tool selection, failures, security boundaries, and side effects."

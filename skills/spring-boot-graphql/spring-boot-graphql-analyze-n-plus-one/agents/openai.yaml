@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze N Plus One"
+  short_description: "Analyze GraphQL N+1 query problems, DataLoader batching, caching, and downstream query amplification."

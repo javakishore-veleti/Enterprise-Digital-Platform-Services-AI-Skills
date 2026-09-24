@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Session Security"
+  short_description: "Analyze session fixation, cookie settings, invalidation, concurrent sessions, CSRF relationships, and session secur"

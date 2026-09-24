@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze GraphQL Schema"
+  short_description: "Analyze Spring for GraphQL schemas, types, fields, nullability, input/output contracts, and schema evolution."

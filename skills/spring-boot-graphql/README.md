@@ -1,5 +1,9 @@
 # spring-boot-graphql
 
-Enterprise Digital Platform AI capability family for Spring for GraphQL schemas, resolvers/controllers, data fetching, batching, subscriptions, security, performance, and testing.
+Enterprise Digital Platform AI skills for Spring Boot graphql.
 
-Public skills created inside this folder must use the `spring-boot-graphql-` prefix when the capability name alone could be ambiguous. Cross-stack concerns should route to the owning technology family rather than duplicate platform-specific knowledge.
+- `spring-boot-graphql-analyze-schema`
+- `spring-boot-graphql-analyze-data-fetcher`
+- `spring-boot-graphql-analyze-n-plus-one`
+- `spring-boot-graphql-analyze-security`
+- `spring-boot-graphql-diagnose-request`

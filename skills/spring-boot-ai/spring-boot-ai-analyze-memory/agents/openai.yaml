@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Memory"
+  short_description: "Analyze conversational memory, chat history, persistence, trimming, isolation, and privacy in Spring AI application"

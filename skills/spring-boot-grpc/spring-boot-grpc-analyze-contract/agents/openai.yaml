@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze gRPC Contract"
+  short_description: "Analyze protobuf contracts, service methods, messages, compatibility, field evolution, and code generation expectat"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Session Clustering"
+  short_description: "Analyze session behavior across scaled Spring Boot instances, load balancing, failover, and statelessness assumptio"

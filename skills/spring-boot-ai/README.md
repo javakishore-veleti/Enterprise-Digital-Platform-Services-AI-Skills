@@ -1,5 +1,9 @@
 # spring-boot-ai
 
-Enterprise Digital Platform AI capability family for Spring AI model clients, embeddings, vector stores, RAG, tools, agents, prompt pipelines, structured output, and AI application integration.
+Enterprise Digital Platform AI skills for Spring Boot ai.
 
-Public skills created inside this folder must use the `spring-boot-ai-` prefix when the capability name alone could be ambiguous. Cross-stack concerns should route to the owning technology family rather than duplicate platform-specific knowledge.
+- `spring-boot-ai-analyze-model-client`
+- `spring-boot-ai-analyze-rag`
+- `spring-boot-ai-analyze-tools`
+- `spring-boot-ai-analyze-memory`
+- `spring-boot-ai-analyze-observability`

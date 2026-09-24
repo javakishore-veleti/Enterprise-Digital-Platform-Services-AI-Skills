@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze gRPC Client"
+  short_description: "Analyze Spring gRPC clients, channels, deadlines, retries, load balancing, TLS, and downstream failures."

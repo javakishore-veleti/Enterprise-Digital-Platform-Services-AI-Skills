@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze gRPC Streaming"
+  short_description: "Analyze unary, server-streaming, client-streaming, and bidirectional streaming behavior, flow control, cancellation"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Diagnose GraphQL Request"
+  short_description: "Diagnose GraphQL request failures across parsing, validation, resolvers, data loaders, downstream systems, and resp"

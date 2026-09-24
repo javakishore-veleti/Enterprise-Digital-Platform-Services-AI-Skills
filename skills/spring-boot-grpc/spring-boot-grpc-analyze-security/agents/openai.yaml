@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze gRPC Security"
+  short_description: "Analyze gRPC TLS/mTLS, authentication metadata, authorization interceptors, certificate trust, and service identity"

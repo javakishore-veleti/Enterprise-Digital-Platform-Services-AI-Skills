@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze AI Observability"
+  short_description: "Analyze Spring AI latency, token usage, model errors, retrieval spans, tool calls, and observability integration."
