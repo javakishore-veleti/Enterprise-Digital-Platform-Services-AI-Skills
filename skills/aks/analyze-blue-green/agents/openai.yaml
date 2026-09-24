@@ -1,0 +1,3 @@
+interface:
+  display_name: "Analyze Blue Green"
+  short_description: "Analyze blue-green deployment topology on AKS, including active/preview workloads, services, labels/selectors,"

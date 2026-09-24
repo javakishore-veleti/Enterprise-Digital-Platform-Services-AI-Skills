@@ -1,32 +1,34 @@
 ---
 name: inspect-runtime
-description: Inspect Azure Kubernetes Service runtime state for a service, including deployments, pods, restarts, events, configuration, resource pressure, health probes, and rollout state. Use when investigating service health, deployment failures, pod restarts, startup issues, runtime regressions, or production incidents involving AKS.
+description: Route AKS runtime investigations to the appropriate focused skill across clusters, namespaces, deployments, pods, storage, services/networking, blue-green, Istio, images, sidecars, startup jobs, Argo CD, Terraform, and rollout diagnosis. Use as the general AKS entry point when the failure domain is not yet known.
 ---
 
 # Inspect Runtime
 
-1. Read `.digital-platform-ai/service.yaml`, `environments.yaml`, and service instructions when present.
-2. Identify the target AKS environment, namespace, deployment, and service.
-3. Inspect deployment and pod state.
-4. Check:
-   - pod readiness and liveness
-   - restart counts
-   - recent events
-   - rollout state
-   - CPU and memory pressure
-   - configuration references
-   - image/version changes
-5. Compare current state with expected deployment configuration from the ops repository when available.
-6. Run independent runtime checks in parallel.
-7. Report observations before drawing conclusions.
-8. Do not mutate cluster resources unless explicitly authorized.
+1. Read `.digital-platform-ai/aks.yaml`, service metadata, dependencies, environment metadata, and relevant service instructions.
+2. Resolve environment, cluster, namespace, workload, and ops repository.
+3. Determine the investigation domain from available evidence.
+4. Route to one or more focused AKS skills:
+   - `inspect-cluster`
+   - `inspect-namespace`
+   - `analyze-deployment`
+   - `inspect-pods`
+   - `analyze-storage`
+   - `analyze-service-networking`
+   - `analyze-blue-green`
+   - `analyze-istio`
+   - `inspect-container-images`
+   - `inspect-sidecars`
+   - `inspect-startup-jobs`
+   - `inspect-argocd`
+   - `inspect-terraform`
+   - `diagnose-rollout`
+5. Run independent evidence gathering in parallel.
+6. Continue until evidence identifies the failing layer or remaining unknowns.
 
 ## Output
-
-Return:
-
-- Runtime State
-- Evidence
-- Deployment/Pod Findings
-- Likely Impact
-- Recommended Next Check
+- Resolved AKS Context
+- Investigation Domains
+- Evidence Summary
+- Failing Layer
+- Recommended Next Action

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Diagnose Rollout"
+  short_description: "Diagnose AKS application rollout failures end-to-end across deployment descriptors, Argo CD, startup jobs, ima"

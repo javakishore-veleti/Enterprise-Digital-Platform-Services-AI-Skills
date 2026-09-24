@@ -1,0 +1,45 @@
+aks:
+  environments:
+    dev:
+      cluster: aks-dev
+      namespace: checkout-dev
+    qa:
+      cluster: aks-qa
+      namespace: checkout-qa
+    stg:
+      cluster: aks-stg
+      namespace: checkout-stg
+    prod:
+      cluster: aks-prod
+      namespace: checkout-prod
+
+  workload:
+    deployment: checkout-service
+    service: checkout-service
+    container: checkout-service
+
+  deployment:
+    strategy: blue-green
+    descriptorsRepo: checkout-service-ops
+
+  gitops:
+    provider: argocd
+    application: checkout-service
+
+  serviceMesh:
+    provider: istio
+    enabled: true
+
+  storage:
+    persistentVolumeClaims: []
+
+  images:
+    registry: enterprise-registry
+    repository: checkout-service
+
+  startup:
+    jobs: []
+    initContainers: []
+
+# Store resource identifiers and references only.
+# Do not store credentials, tokens, kubeconfigs, or secrets in Git.

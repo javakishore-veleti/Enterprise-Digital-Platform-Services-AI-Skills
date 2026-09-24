@@ -1,0 +1,3 @@
+interface:
+  display_name: "Analyze Service Networking"
+  short_description: "Analyze AKS Kubernetes Services, endpoints, DNS, ingress/gateway routing, ports, selectors, network policies, "
