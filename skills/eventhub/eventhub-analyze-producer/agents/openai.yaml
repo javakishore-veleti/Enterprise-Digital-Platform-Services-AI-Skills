@@ -1,0 +1,3 @@
+interface:
+  display_name: "Event Hubs Analyze Producer"
+  short_description: "Analyze Azure Event Hubs producer behavior including batching, partition routing, retries, idempotency expectations"

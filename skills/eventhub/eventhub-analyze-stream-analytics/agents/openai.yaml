@@ -1,0 +1,3 @@
+interface:
+  display_name: "Event Hubs Analyze Stream Analytics"
+  short_description: "Analyze Azure Stream Analytics integrations with Azure Event Hubs, including input configuration, partitions, event"

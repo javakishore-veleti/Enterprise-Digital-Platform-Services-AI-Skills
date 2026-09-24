@@ -1,0 +1,3 @@
+interface:
+  display_name: "Event Hubs Analyze Consumer"
+  short_description: "Analyze Azure Event Hubs consumer behavior including consumer groups, EventProcessorClient-style processing, partit"

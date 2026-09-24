@@ -1,0 +1,50 @@
+eventhub:
+  environments:
+    dev:
+      namespace: checkout-events-dev
+      eventHub: checkout-events
+      region: eastus
+    prod:
+      namespace: checkout-events-prod
+      eventHub: checkout-events
+      region: eastus
+
+  tier: standard
+
+  capacity:
+    autoInflateEnabled: true
+    maximumThroughputUnits: 10
+
+  partitions:
+    count: 8
+    partitionKey: customerId
+    orderingRequired: true
+
+  producers:
+    - service: checkout-service
+      protocol: amqp
+
+  consumers:
+    - service: order-processing-service
+      consumerGroup: order-processing
+      checkpointStore: azure-blob
+
+  schemaRegistry:
+    enabled: true
+    format: avro
+
+  capture:
+    enabled: false
+
+  geoReplication:
+    enabled: false
+
+  authentication:
+    mode: entra-id
+    keyVaultReference: checkout-kv
+
+  observability:
+    provider: datadog
+
+# Store identifiers, architecture intent, and references only.
+# Do not store connection strings, SAS keys/tokens, credentials, or secrets in Git.

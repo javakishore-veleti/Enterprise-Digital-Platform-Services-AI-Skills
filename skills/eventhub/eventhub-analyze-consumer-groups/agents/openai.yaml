@@ -1,0 +1,3 @@
+interface:
+  display_name: "Event Hubs Analyze Consumer Groups"
+  short_description: "Analyze Azure Event Hubs consumer-group topology, isolation, shared streams, independent offsets, workload ownershi"

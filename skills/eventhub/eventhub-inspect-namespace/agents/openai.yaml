@@ -1,0 +1,3 @@
+interface:
+  display_name: "Event Hubs Inspect Namespace"
+  short_description: "Inspect Azure Event Hubs namespace configuration, tier, capacity model, networking, availability-zone behavior, geo"

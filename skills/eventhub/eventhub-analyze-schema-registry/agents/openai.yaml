@@ -1,0 +1,3 @@
+interface:
+  display_name: "Event Hubs Analyze Schema Registry"
+  short_description: "Analyze Azure Event Hubs Schema Registry usage, schema groups, Avro/JSON Schema/Protobuf contracts, producer/consum"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Event Hubs Analyze Geo Replication"
+  short_description: "Analyze Azure Event Hubs geo-replication, primary/secondary regions, synchronous or asynchronous replication where "

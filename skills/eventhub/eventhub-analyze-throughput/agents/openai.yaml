@@ -1,0 +1,3 @@
+interface:
+  display_name: "Event Hubs Analyze Throughput"
+  short_description: "Analyze Azure Event Hubs throughput and capacity including throughput units, processing units or capacity units as "

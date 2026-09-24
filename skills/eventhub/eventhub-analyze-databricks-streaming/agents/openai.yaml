@@ -1,0 +1,3 @@
+interface:
+  display_name: "Event Hubs Analyze Databricks Streaming"
+  short_description: "Analyze Azure Databricks or Spark Structured Streaming integrations with Azure Event Hubs, including Kafka-compatib"

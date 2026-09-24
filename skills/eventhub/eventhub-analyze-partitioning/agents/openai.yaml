@@ -1,0 +1,3 @@
+interface:
+  display_name: "Event Hubs Analyze Partitioning"
+  short_description: "Analyze Azure Event Hubs partition count, partition key strategy, event distribution, ordering requirements, hot pa"

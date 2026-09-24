@@ -1,0 +1,3 @@
+interface:
+  display_name: "Event Hubs Diagnose Runtime"
+  short_description: "Diagnose Azure Event Hubs incidents end-to-end across namespaces, capacity, partitions, producers, consumers, consu"

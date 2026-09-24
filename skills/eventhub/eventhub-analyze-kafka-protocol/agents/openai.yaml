@@ -1,0 +1,3 @@
+interface:
+  display_name: "Event Hubs Analyze Kafka Protocol"
+  short_description: "Analyze applications using the Apache Kafka protocol with Azure Event Hubs, including bootstrap configuration, cons"

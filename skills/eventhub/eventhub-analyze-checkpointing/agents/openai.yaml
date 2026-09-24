@@ -1,0 +1,3 @@
+interface:
+  display_name: "Event Hubs Analyze Checkpointing"
+  short_description: "Analyze Azure Event Hubs checkpointing, checkpoint stores, offsets, partition ownership records, replay behavior, d"

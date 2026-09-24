@@ -1,0 +1,3 @@
+interface:
+  display_name: "Event Hubs Analyze Capture"
+  short_description: "Analyze Azure Event Hubs Capture configuration and delivery to Azure Blob Storage or Data Lake Storage, including d"

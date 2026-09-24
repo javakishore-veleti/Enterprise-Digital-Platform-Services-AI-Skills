@@ -1,0 +1,3 @@
+interface:
+  display_name: "Event Hubs Analyze Spring Boot Integration"
+  short_description: "Analyze Azure Event Hubs integration in Spring Boot and Java services, including producer/consumer clients, configu"
