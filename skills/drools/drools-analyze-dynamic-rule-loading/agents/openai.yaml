@@ -1,0 +1,3 @@
+interface:
+  display_name: "Drools Analyze Dynamic Rule Loading"
+  short_description: "Analyze Drools dynamic rule loading, runtime refresh, KieScanner or equivalent update mechanisms, version transitio"

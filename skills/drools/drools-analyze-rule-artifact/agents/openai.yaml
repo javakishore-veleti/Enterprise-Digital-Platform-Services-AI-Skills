@@ -1,0 +1,3 @@
+interface:
+  display_name: "Drools Analyze Rule Artifact"
+  short_description: "Analyze Drools KJAR/rule artifacts, Maven coordinates, versions, KieModule packaging, dependencies, compilation, an"

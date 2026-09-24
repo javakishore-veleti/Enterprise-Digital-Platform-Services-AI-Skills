@@ -1,0 +1,3 @@
+interface:
+  display_name: "Drools Analyze Rule Unit"
+  short_description: "Analyze Drools Rule Units, unit data, data sources, rule boundaries, lifecycle, and domain isolation. Use when appl"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Drools Analyze Session"
+  short_description: "Analyze Drools KieSession and StatelessKieSession lifecycle, fact retention, disposal, concurrency boundaries, memo"

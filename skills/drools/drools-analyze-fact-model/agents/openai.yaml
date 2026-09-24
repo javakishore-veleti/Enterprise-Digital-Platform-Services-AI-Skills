@@ -1,0 +1,3 @@
+interface:
+  display_name: "Drools Analyze Fact Model"
+  short_description: "Analyze Drools fact object models, relationships, property access, mutability, equality, derived facts, and working"

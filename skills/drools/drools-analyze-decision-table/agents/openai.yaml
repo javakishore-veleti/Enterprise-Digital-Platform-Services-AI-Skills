@@ -1,0 +1,3 @@
+interface:
+  display_name: "Drools Analyze Decision Table"
+  short_description: "Analyze Drools spreadsheet or tabular decision tables for rule generation, condition/action mapping, gaps, overlaps"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Drools Analyze CEP"
+  short_description: "Analyze Drools Complex Event Processing rules, event types, temporal operators, windows, clocks, expiration, orderi"

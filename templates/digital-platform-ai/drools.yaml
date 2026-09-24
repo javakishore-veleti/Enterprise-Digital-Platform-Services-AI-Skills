@@ -1,0 +1,32 @@
+drools:
+  ruleEngine: drools
+
+  rules:
+    sourceRepository: checkout-rules
+    artifact:
+      groupId: com.enterprise.checkout
+      artifactId: checkout-rules
+      versionSource: application-config
+
+  execution:
+    integration: spring-boot
+    sessionType: stateless
+    dynamicReload: false
+
+  ruleSources:
+    drl: true
+    decisionTables: false
+    ruleUnits: false
+    cep: false
+
+  observability:
+    provider: datadog
+    captureRuleVersion: true
+    captureDecisionCorrelationId: true
+
+  governance:
+    owner: checkout-team
+    approvalRequired: true
+
+# Store rule metadata and references only.
+# Do not store credentials, secrets, tokens, or sensitive production facts in Git.

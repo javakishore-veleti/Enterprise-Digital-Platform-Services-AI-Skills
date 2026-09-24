@@ -1,0 +1,3 @@
+interface:
+  display_name: "Drools Analyze Spring Boot Integration"
+  short_description: "Analyze Drools integration in Spring Boot services including KieContainer/KieBase/KieSession configuration, bean li"

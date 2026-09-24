@@ -1,0 +1,3 @@
+interface:
+  display_name: "Drools Analyze Performance"
+  short_description: "Analyze Drools rule-evaluation performance, constraint selectivity, network behavior, activation volume, fact volum"

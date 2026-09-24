@@ -1,0 +1,3 @@
+interface:
+  display_name: "Drools Analyze Rule Tests"
+  short_description: "Analyze Drools rule tests for scenario coverage, expected facts/outcomes, boundary conditions, conflicting rules, r"

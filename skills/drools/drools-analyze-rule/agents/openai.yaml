@@ -1,0 +1,3 @@
+interface:
+  display_name: "Drools Analyze Rule"
+  short_description: "Analyze Drools DRL rule semantics, conditions, consequences, attributes, bindings, constraints, and interactions. U"

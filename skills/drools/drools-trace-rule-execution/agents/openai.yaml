@@ -1,0 +1,3 @@
+interface:
+  display_name: "Drools Trace Rule Execution"
+  short_description: "Trace Drools rule execution from inserted facts through matches, agenda activations, firing order, fact mutations, "

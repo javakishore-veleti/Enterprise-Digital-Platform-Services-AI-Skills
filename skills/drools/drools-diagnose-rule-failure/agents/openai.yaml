@@ -1,0 +1,3 @@
+interface:
+  display_name: "Drools Diagnose Rule Failure"
+  short_description: "Diagnose Drools rule-engine failures including rules not firing, unexpected firing, compilation errors, fact mismat"

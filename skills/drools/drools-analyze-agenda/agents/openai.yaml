@@ -1,0 +1,3 @@
+interface:
+  display_name: "Drools Analyze Agenda"
+  short_description: "Analyze Drools agenda behavior including salience, agenda groups, activation groups, ruleflow groups, no-loop, lock"
