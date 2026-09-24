@@ -1,0 +1,3 @@
+interface:
+  display_name: "Datadog Analyze Security Signals"
+  short_description: "Analyze Datadog security signals and related runtime/cloud telemetry for suspicious activity, misconfiguration, vul"

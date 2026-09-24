@@ -1,0 +1,3 @@
+interface:
+  display_name: "Datadog Analyze Logs"
+  short_description: "Analyze enterprise Datadog logs, facets, attributes, pipelines, parsing, error patterns, correlation identifiers, a"

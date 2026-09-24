@@ -1,0 +1,3 @@
+interface:
+  display_name: "Datadog Analyze SLO"
+  short_description: "Analyze Datadog SLOs, SLIs, error budgets, burn behavior, monitor-based or metric-based objectives, and service rel"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Datadog Analyze Kubernetes"
+  short_description: "Analyze Kubernetes and AKS telemetry in Datadog across clusters, namespaces, deployments, pods, containers, resourc"

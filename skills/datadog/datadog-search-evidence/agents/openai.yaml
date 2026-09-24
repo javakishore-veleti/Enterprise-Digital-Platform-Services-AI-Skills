@@ -1,0 +1,3 @@
+interface:
+  display_name: "Datadog Search Evidence"
+  short_description: "Search Datadog logs, traces, metrics, events, and related telemetry for evidence tied to a service, request, trace,"

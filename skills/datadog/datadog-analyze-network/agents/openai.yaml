@@ -1,0 +1,3 @@
+interface:
+  display_name: "Datadog Analyze Network"
+  short_description: "Analyze Datadog network telemetry and service communication for connectivity, latency, retransmits, traffic flows, "

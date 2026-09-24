@@ -1,0 +1,3 @@
+interface:
+  display_name: "Datadog Analyze Database Monitoring"
+  short_description: "Analyze Datadog Database Monitoring telemetry for query performance, wait time, load, execution behavior, blocking,"

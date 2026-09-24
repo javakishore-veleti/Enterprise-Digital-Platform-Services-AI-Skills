@@ -1,0 +1,3 @@
+interface:
+  display_name: "Datadog Analyze Synthetics"
+  short_description: "Analyze Datadog API and browser synthetic tests for availability, latency, assertion failures, regional differences"

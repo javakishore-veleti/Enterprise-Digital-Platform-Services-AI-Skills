@@ -1,0 +1,3 @@
+interface:
+  display_name: "Datadog Analyze APM Service"
+  short_description: "Analyze a service using Datadog APM service-level telemetry including request rate, error rate, latency, resources,"

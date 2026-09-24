@@ -1,0 +1,3 @@
+interface:
+  display_name: "Datadog Analyze Ingestion Cost"
+  short_description: "Analyze Datadog observability volume and cost drivers across logs, indexed logs, custom metrics, metric cardinality"

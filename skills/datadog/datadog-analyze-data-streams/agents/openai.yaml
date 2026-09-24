@@ -1,0 +1,3 @@
+interface:
+  display_name: "Datadog Analyze Data Streams"
+  short_description: "Analyze Datadog Data Streams Monitoring telemetry for Kafka and other supported streaming pipelines, including prod"

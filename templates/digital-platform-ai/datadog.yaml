@@ -1,0 +1,36 @@
+datadog:
+  environments:
+    dev:
+      envTag: dev
+    qa:
+      envTag: qa
+    stg:
+      envTag: stg
+    prod:
+      envTag: prod
+
+  service:
+    name: checkout-service
+    versionTag: version
+
+  correlation:
+    traceIdEnabled: true
+    requestIdHeader: X-Request-ID
+
+  telemetry:
+    logs: true
+    apm: true
+    metrics: true
+    rum: false
+    synthetics: false
+    databaseMonitoring: false
+    dataStreamsMonitoring: false
+    llmObservability: false
+    security: false
+
+  tags:
+    service: checkout-service
+    team: checkout-team
+
+# Declare enabled capabilities and identifiers only.
+# Do not store Datadog API keys, application keys, credentials, tokens, PII, or secrets in Git.

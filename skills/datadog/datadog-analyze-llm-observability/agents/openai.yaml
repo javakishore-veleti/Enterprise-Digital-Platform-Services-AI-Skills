@@ -1,0 +1,3 @@
+interface:
+  display_name: "Datadog Analyze LLM Observability"
+  short_description: "Analyze Datadog LLM observability telemetry for model calls, agent or chain traces, latency, errors, token usage, r"

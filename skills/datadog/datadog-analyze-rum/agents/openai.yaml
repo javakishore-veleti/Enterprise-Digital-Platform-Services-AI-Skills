@@ -1,0 +1,3 @@
+interface:
+  display_name: "Datadog Analyze RUM"
+  short_description: "Analyze Datadog Real User Monitoring telemetry for web or mobile user experience, frontend errors, page/view perfor"

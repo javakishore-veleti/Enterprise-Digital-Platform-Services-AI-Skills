@@ -1,0 +1,3 @@
+interface:
+  display_name: "Datadog Analyze Traces"
+  short_description: "Analyze Datadog APM distributed traces, spans, service dependencies, latency, errors, retries, and request flow acr"

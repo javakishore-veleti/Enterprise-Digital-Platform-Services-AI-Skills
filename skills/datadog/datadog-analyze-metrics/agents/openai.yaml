@@ -1,0 +1,3 @@
+interface:
+  display_name: "Datadog Analyze Metrics"
+  short_description: "Analyze Datadog infrastructure, application, custom, and business metrics for anomalies, saturation, throughput, la"

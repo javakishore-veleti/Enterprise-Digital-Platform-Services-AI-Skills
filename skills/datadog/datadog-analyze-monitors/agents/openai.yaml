@@ -1,0 +1,3 @@
+interface:
+  display_name: "Datadog Analyze Monitors"
+  short_description: "Analyze Datadog monitors and alert behavior for thresholds, evaluation windows, grouping, no-data behavior, anomaly"
