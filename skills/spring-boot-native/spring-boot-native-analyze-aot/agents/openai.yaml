@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze AOT"
+  short_description: "Analyze Spring Boot ahead-of-time processing, generated artifacts, configuration, and AOT-specific failures."

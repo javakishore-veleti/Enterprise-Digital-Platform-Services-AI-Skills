@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Dependency Failure"
+  short_description: "Analyze downstream dependency failures from Spring Boot using code paths, clients, retries, traces, logs, and depen"

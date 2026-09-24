@@ -1,5 +1,8 @@
 # spring-boot-scheduling
 
-Enterprise Digital Platform AI capability family for Scheduled jobs, async execution, task executors, distributed scheduling concerns, idempotency, concurrency, and background work.
+Enterprise Digital Platform AI skills for Spring Boot scheduling.
 
-Public skills created inside this folder must use the `spring-boot-scheduling-` prefix when the capability name alone could be ambiguous. Cross-stack concerns should route to the owning technology family rather than duplicate platform-specific knowledge.
+- `spring-boot-scheduling-analyze-scheduled-job`
+- `spring-boot-scheduling-analyze-async`
+- `spring-boot-scheduling-analyze-distributed-job`
+- `spring-boot-scheduling-diagnose-stuck-work`

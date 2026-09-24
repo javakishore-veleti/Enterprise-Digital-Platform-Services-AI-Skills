@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Diagnose Native Build"
+  short_description: "Diagnose Spring Boot native-image build failures, unsupported reflection/resources, dependencies, buildpacks, and t"

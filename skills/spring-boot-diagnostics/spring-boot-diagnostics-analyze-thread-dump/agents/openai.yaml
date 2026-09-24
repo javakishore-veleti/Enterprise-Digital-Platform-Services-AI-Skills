@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Thread Dump"
+  short_description: "Analyze Spring Boot JVM thread dumps for deadlocks, blocked threads, pool saturation, request stalls, and dependenc"

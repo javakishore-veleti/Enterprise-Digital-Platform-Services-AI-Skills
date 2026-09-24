@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Async Execution"
+  short_description: "Analyze Spring async methods, task executors, queueing, thread pools, context propagation, exceptions, and saturati"

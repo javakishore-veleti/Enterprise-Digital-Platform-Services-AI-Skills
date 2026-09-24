@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Modules"
+  short_description: "Analyze Spring Modulith application modules, package boundaries, dependencies, exposed interfaces, and architecture"

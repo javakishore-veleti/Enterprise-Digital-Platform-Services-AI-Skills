@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Config Drift"
+  short_description: "Analyze configuration drift between environments, repositories, deployment descriptors, environment variables, and "

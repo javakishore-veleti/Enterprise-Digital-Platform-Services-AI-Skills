@@ -1,5 +1,10 @@
 # spring-boot-diagnostics
 
-Enterprise Digital Platform AI capability family for Cross-cutting diagnosis of Spring Boot startup, runtime, dependency, configuration, latency, exception, and production failure scenarios.
+Enterprise Digital Platform AI skills for Spring Boot diagnostics.
 
-Public skills created inside this folder must use the `spring-boot-diagnostics-` prefix when the capability name alone could be ambiguous. Cross-stack concerns should route to the owning technology family rather than duplicate platform-specific knowledge.
+- `spring-boot-diagnose-failure`
+- `spring-boot-diagnostics-analyze-thread-dump`
+- `spring-boot-diagnostics-analyze-heap-memory`
+- `spring-boot-diagnostics-analyze-config-drift`
+- `spring-boot-diagnostics-analyze-dependency-failure`
+- `spring-boot-diagnostics-analyze-latency`

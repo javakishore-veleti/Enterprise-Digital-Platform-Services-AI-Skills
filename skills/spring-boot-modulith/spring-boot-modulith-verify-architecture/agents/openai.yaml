@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Verify Architecture"
+  short_description: "Verify Spring Modulith structural rules, module dependencies, cycles, documentation, and architecture tests."

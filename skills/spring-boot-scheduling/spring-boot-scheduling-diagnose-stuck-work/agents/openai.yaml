@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Diagnose Stuck Work"
+  short_description: "Diagnose stuck or delayed background work using thread pools, queues, locks, downstream calls, and runtime telemetr"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Scheduled Job"
+  short_description: "Analyze Spring scheduled jobs, cron/fixed delay/rate semantics, execution overlap, time zones, exceptions, and life"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze GraalVM Native"
+  short_description: "Analyze GraalVM native image builds, reflection/resource/proxy hints, reachability metadata, and runtime difference"

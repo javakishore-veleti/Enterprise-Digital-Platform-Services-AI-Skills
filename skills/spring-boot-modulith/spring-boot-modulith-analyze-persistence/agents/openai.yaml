@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Event Persistence"
+  short_description: "Analyze Spring Modulith event publication persistence, completion tracking, recovery, and operational behavior."

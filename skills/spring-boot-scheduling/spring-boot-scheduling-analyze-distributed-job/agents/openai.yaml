@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Distributed Job"
+  short_description: "Analyze scheduled work across multiple service replicas, leader/lock requirements, idempotency, duplicate execution"

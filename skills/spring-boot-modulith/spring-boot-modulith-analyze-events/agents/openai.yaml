@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Module Events"
+  short_description: "Analyze Spring Modulith application events, publication lifecycle, transactional event behavior, retries, and modul"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Latency"
+  short_description: "Analyze Spring Boot latency across request handling, thread pools, database/cache/message dependencies, GC, network"

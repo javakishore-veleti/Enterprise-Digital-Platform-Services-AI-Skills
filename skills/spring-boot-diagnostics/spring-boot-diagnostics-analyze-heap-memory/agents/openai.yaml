@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Boot Analyze Heap Memory"
+  short_description: "Analyze Spring Boot JVM heap, GC pressure, memory leaks, object retention symptoms, OOM events, and container memor"
