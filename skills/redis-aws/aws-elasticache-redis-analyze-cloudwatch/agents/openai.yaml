@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Analyze CloudWatch"
+  short_description: "Analyze Amazon ElastiCache CloudWatch metrics and logs for latency, engine CPU, server load, memory, cache hit rati"

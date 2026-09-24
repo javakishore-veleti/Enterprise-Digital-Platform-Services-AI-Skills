@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Analyze Transactions"
+  short_description: "Analyze Redis transactions, WATCH, MULTI/EXEC, pipelining, Lua or server-side atomic operations, concurrency, and c"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Analyze Sharding"
+  short_description: "Analyze ElastiCache cluster mode and shard topology, partition distribution, hash slots, hot shards, scaling, resha"

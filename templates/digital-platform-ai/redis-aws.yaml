@@ -1,0 +1,61 @@
+redisAws:
+  provider: aws
+  service: elasticache
+
+  environments:
+    dev:
+      accountRef: enterprise-dev
+      region: us-east-1
+      cacheRef: checkout-cache-dev
+    prod:
+      accountRef: enterprise-prod
+      region: us-east-1
+      cacheRef: checkout-cache-prod
+
+  engine:
+    family: valkey
+    versionRef: enterprise-supported
+
+  deployment:
+    type: node-based
+    clusterMode: enabled
+    multiAz: true
+    automaticFailover: true
+
+  topology:
+    shardCountRef: platform-managed
+    replicasPerShardRef: platform-managed
+
+  globalDatastore:
+    enabled: false
+    secondaryRegionRefs: []
+
+  authentication:
+    mode: iam
+    rbacEnabled: true
+
+  networking:
+    vpcRef: checkout-vpc
+    subnetGroupRef: checkout-cache-subnets
+    securityGroupRefs: []
+
+  encryption:
+    inTransit: true
+    atRest: true
+    kmsKeyRef: alias/checkout-elasticache
+
+  snapshots:
+    enabled: true
+    retentionDaysRef: enterprise-policy
+
+  workload:
+    patterns:
+      - cache-aside
+    client: lettuce
+
+  observability:
+    cloudWatch: true
+    enterpriseProvider: datadog
+
+# Store resource identifiers, architecture intent, and secret references only.
+# Never store IAM tokens, passwords, connection strings, cached sensitive values, or KMS key material in Git.

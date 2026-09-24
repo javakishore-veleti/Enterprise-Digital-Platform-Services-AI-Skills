@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Analyze Distributed Locking"
+  short_description: "Analyze distributed locking patterns on ElastiCache including single-instance SET NX PX patterns, multi-node assump"

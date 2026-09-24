@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Diagnose Runtime"
+  short_description: "Diagnose Amazon ElastiCache Redis OSS or Valkey incidents across clients, latency, timeouts, memory, CPU, server lo"

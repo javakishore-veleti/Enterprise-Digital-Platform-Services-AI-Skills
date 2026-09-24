@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Analyze Serverless"
+  short_description: "Analyze Amazon ElastiCache Serverless for Valkey or Redis OSS including usage limits, scaling behavior, VPC access,"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Analyze IAM Authentication"
+  short_description: "Analyze ElastiCache IAM authentication for Valkey or Redis OSS, ElastiCache users, RBAC, elasticache:Connect permis"

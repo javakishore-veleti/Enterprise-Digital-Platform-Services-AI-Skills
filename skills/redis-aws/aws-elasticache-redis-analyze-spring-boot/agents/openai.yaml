@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Analyze Spring Boot"
+  short_description: "Analyze Spring Boot and Java integration with ElastiCache using Lettuce or Jedis, Spring Cache, TLS, IAM authentica"

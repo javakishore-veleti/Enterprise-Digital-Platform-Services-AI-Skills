@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Analyze Snapshots"
+  short_description: "Analyze ElastiCache snapshot and restore workflows, automated/manual backups, S3-backed snapshot durability, retent"

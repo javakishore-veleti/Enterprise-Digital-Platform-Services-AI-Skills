@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Analyze Networking"
+  short_description: "Analyze ElastiCache VPC placement, subnet groups, security groups, DNS, routing, client VPC connectivity, TLS, and "

@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Analyze Cost"
+  short_description: "Analyze ElastiCache cost drivers across node-based versus Serverless, node families, replicas, shards, Global Datas"

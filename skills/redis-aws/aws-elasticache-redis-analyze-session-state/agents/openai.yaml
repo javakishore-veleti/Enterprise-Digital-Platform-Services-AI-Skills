@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Analyze Session State"
+  short_description: "Analyze ElastiCache distributed session-state patterns for stateless services, ECS/EKS workloads, TTLs, serializati"

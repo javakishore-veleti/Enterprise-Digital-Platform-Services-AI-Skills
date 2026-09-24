@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Analyze Migration"
+  short_description: "Analyze migrations to or between ElastiCache Redis OSS and Valkey deployments, including node-based and Serverless "

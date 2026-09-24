@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Analyze Replication Group"
+  short_description: "Analyze node-based ElastiCache replication groups including primaries, replicas, asynchronous replication, Multi-AZ"

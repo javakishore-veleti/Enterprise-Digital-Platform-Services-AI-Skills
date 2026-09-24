@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Analyze Performance"
+  short_description: "Analyze ElastiCache throughput and latency using engine CPU, server load, memory, network, command patterns, connec"

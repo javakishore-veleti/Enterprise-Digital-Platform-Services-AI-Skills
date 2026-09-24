@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Analyze Eviction"
+  short_description: "Analyze Redis OSS or Valkey eviction policy behavior in ElastiCache, memory pressure, expiration patterns, workload"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Analyze Memory"
+  short_description: "Analyze ElastiCache memory usage, fragmentation, keyspace growth, TTL coverage, large keys, replica memory pressure"

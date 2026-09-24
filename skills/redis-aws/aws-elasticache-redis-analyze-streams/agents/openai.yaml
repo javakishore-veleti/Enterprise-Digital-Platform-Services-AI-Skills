@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Analyze Streams"
+  short_description: "Analyze Redis Streams on ElastiCache including consumer groups, pending entries, acknowledgements, trimming, lag, r"

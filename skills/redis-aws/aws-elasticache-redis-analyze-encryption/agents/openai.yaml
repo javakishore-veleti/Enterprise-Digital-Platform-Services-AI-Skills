@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Analyze Encryption"
+  short_description: "Analyze ElastiCache encryption in transit and at rest, TLS client behavior, KMS customer-managed keys where support"

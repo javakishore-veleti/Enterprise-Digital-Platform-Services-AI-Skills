@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Analyze Connections"
+  short_description: "Analyze ElastiCache client connections, pooling or multiplexing, TLS, DNS, retry storms, reconnect behavior, connec"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "AWS ElastiCache Redis Inspect Runtime"
+  short_description: "Inspect Amazon ElastiCache for Valkey or Redis OSS across node-based replication groups and Serverless caches, incl"
